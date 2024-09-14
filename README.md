@@ -2,17 +2,16 @@
   <img src="https://github.com/user-attachments/assets/7d175927-ada3-49d1-9feb-c539e3595c73" width="200">
   <h1 align="center">VentusSolaris Analyzer: A Low-Cost Portable Kit for Renewable Energy Evaluation</h1>
 </p>
+
+## **Descripción General**
+
+<p align="justify">**VentusSolaris Analyzer** es una solución portátil de bajo costo diseñada para evaluar el potencial de energías renovables en diversas ubicaciones. Este kit combina la medición de energía solar y eólica, ofreciendo a estudiantes, investigadores y profesionales una herramienta accesible para obtener datos precisos y en tiempo real.</p>
+
+<p align="justify">Concebido dentro de un entorno académico, este proyecto tiene como objetivo acercar la tecnología de análisis de energías renovables a aquellos interesados en el impacto y la viabilidad de estas soluciones en diferentes regiones.</p>
+
 ---
 
-### **Descripción General**
-
-**VentusSolaris Analyzer** es una solución portátil de bajo costo diseñada para evaluar el potencial de energías renovables en diversas ubicaciones. Este kit combina la medición de energía solar y eólica, ofreciendo a estudiantes, investigadores y profesionales una herramienta accesible para obtener datos precisos y en tiempo real.
-
-Concebido dentro de un entorno académico, este proyecto tiene como objetivo acercar la tecnología de análisis de energías renovables a aquellos interesados en el impacto y la viabilidad de estas soluciones en diferentes regiones.
-
----
-
-### **Características Principales**
+## **Características Principales**
 
 - 🌞 **Energía Solar**: Medición eficiente de la radiación solar.
 - 🌬️ **Energía Eólica**: Monitorización de la velocidad del viento para evaluar el potencial eólico.
@@ -22,7 +21,7 @@ Concebido dentro de un entorno académico, este proyecto tiene como objetivo ace
 
 ---
 
-### **Estructura del Proyecto**
+## **Estructura del Proyecto**
 
 ```bash
 VentusSolarisAnalyzer/
@@ -35,20 +34,27 @@ VentusSolarisAnalyzer/
 └── README.md     # Este archivo
 ```
 
-Motivación y Contexto
-El acceso a herramientas confiables para la evaluación de energías renovables suele estar limitado por altos costos y falta de accesibilidad. VentusSolaris Analyzer nace con la intención de democratizar la evaluación energética, proporcionando una alternativa portátil y económica que puede ser implementada en áreas urbanas o rurales.
+---
 
-Este proyecto también responde a la necesidad académica de ofrecer a los estudiantes experiencias prácticas en el uso de tecnologías renovables, facilitando la comprensión de conceptos como energía solar fotovoltaica y energía eólica en escenarios reales.
+## Motivación y Contexto
+<p align="justify">El acceso a herramientas confiables para la evaluación de energías renovables suele estar limitado por altos costos y falta de accesibilidad. VentusSolaris Analyzer nace con la intención de democratizar la evaluación energética, proporcionando una alternativa portátil y económica que puede ser implementada en áreas urbanas o rurales.</p>
 
-Resultados Esperados
+<p align="justify">Este proyecto también responde a la necesidad académica de ofrecer a los estudiantes experiencias prácticas en el uso de tecnologías renovables, facilitando la comprensión de conceptos como energía solar fotovoltaica y energía eólica en escenarios reales.</p>
+
+---
+
+## Resultados Esperados
 Con VentusSolaris Analyzer, se espera lograr:
 
-Datos precisos en la medición de energías renovables en diferentes entornos.
-Facilidad de uso en investigaciones de campo, donde la portabilidad es clave.
-Prototipos escalables, que puedan mejorarse y adaptarse a necesidades más complejas en futuras iteraciones.
-Estos logros contribuirán no solo al campo académico, sino también a la posibilidad de implementación en proyectos de desarrollo sostenible en comunidades con acceso limitado a recursos energéticos.
+- Datos precisos en la medición de energías renovables en diferentes entornos.
+- Facilidad de uso en investigaciones de campo, donde la portabilidad es clave.
+- Prototipos escalables, que puedan mejorarse y adaptarse a necesidades más complejas en futuras iteraciones.
 
-### **Equipo Actual (Proyecto Mejorado: VentusSolaris Analyzer)**
+<p align="justify">Estos logros contribuirán no solo al campo académico, sino también a la posibilidad de implementación en proyectos de desarrollo sostenible en comunidades con acceso limitado a recursos energéticos.</p>
+
+---
+
+## Equipo Actual (Proyecto Mejorado: VentusSolaris Analyzer)
 
 | Miembro | Rol | Función Principal | Correo |
 | :------------: | :------------: | :------------: | :------------: |
@@ -60,7 +66,7 @@ Estos logros contribuirán no solo al campo académico, sino también a la posib
 
 ---
 
-### **Equipo Fundador (Proyecto Original: SolarWind Analyzer)**
+## Equipo Fundador (Proyecto Original: SolarWind Analyzer)
 
 | Miembro | Rol | Función Principal | Correo |
 | :------------: | :------------: | :------------: | :------------: |
@@ -70,16 +76,21 @@ Estos logros contribuirán no solo al campo académico, sino también a la posib
 | **Poma Arrieta, Josue Jhordan** | Investigación | Investigación y desarrollo de la página web | josue.poma@upch.pe |
 | **Vidaurre Juárez, Amparo Marleny** | Coordinadora General | Coordinación general del proyecto | amparo.vidaurre@upch.pe |
 
-Documentación y Recursos
-Toda la documentación técnica y manuales de usuario pueden encontrarse en la carpeta docs/, donde se detalla el funcionamiento interno del sistema, guías de uso y especificaciones de hardware. Además, en la carpeta examples/ se incluyen ejemplos para facilitar la configuración del kit en diferentes entornos.
+---
 
-Licencia
-Este proyecto está licenciado bajo la Licencia MIT, lo que permite su uso, modificación y distribución para fines académicos y comerciales, siempre y cuando se otorgue el crédito adecuado.
+## Documentación y Recursos
+<p align="justify">Toda la documentación técnica y manuales de usuario pueden encontrarse en la carpeta docs/, donde se detalla el funcionamiento interno del sistema, guías de uso y especificaciones de hardware. Además, en la carpeta examples/ se incluyen ejemplos para facilitar la configuración del kit en diferentes entornos.</p>
 
-Contacto
-Si tienes alguna duda, sugerencia o interés en colaborar con el proyecto, no dudes en ponerte en contacto con los miembros del equipo a través de sus correos electrónicos:
+---
 
-Josué Florian: josue.florian@upch.pe
-Romina Pérez: romina.perez@upch.pe
+## Licencia
+<p align="justify">Este proyecto está licenciado bajo la Licencia MIT, lo que permite su uso, modificación y distribución para fines académicos y comerciales, siempre y cuando se otorgue el crédito adecuado.</p>
 
-VentusSolaris Analyzer representa un paso adelante hacia la accesibilidad y democratización de las energías renovables. Al hacer uso de tecnologías accesibles y un enfoque modular, nuestro objetivo es contribuir no solo al ámbito académico, sino también al desarrollo sostenible a nivel global.
+---
+
+## Contacto
+<p align="justify">Si tienes alguna duda, sugerencia o interés en colaborar con el proyecto, no dudes en ponerte en contacto con nosotros a través de nuestros correos electrónicos.</p>
+
+---
+
+<p align="justify">VentusSolaris Analyzer representa un paso adelante hacia la accesibilidad y democratización de las energías renovables. Al hacer uso de tecnologías accesibles y un enfoque modular, nuestro objetivo es contribuir no solo al ámbito académico, sino también al desarrollo sostenible a nivel global.</p>
