@@ -1,9 +1,7 @@
 <p align="left">
   <img src="https://github.com/user-attachments/assets/7d175927-ada3-49d1-9feb-c539e3595c73" width="200">
-  <h1 align="center">Entregable 01: Regresión Lineal</h1>
+  <h1 align="center">VentusSolaris Analyzer: A Low-Cost Portable Kit for Renewable Energy Evaluation</h1>
 </p>
-
-# VentusSolaris Analyzer: A Low-Cost Portable Kit for Renewable Energy Evaluation
 
 ### **Equipo Actual (Proyecto Mejorado: VentusSolaris Analyzer)**
 
