@@ -5,7 +5,7 @@
 
 ## **Descripción General**
 
-<p align="justify">**VentusSolaris Analyzer** es una solución portátil de bajo costo diseñada para evaluar el potencial de energías renovables en diversas ubicaciones. Este kit combina la medición de energía solar y eólica, ofreciendo a estudiantes, investigadores y profesionales una herramienta accesible para obtener datos precisos y en tiempo real.</p>
+<p align="justify"><strong>VentusSolaris Analyzer</strong> es una solución portátil de bajo costo diseñada para evaluar el potencial de energías renovables en diversas ubicaciones. Este kit combina la medición de energía solar y eólica, ofreciendo a estudiantes, investigadores y profesionales una herramienta accesible para obtener datos precisos y en tiempo real.</p>
 
 <p align="justify">Concebido dentro de un entorno académico, este proyecto tiene como objetivo acercar la tecnología de análisis de energías renovables a aquellos interesados en el impacto y la viabilidad de estas soluciones en diferentes regiones.</p>
 
