@@ -9,8 +9,6 @@
 
 <p align="justify">Concebido dentro de un entorno académico, este proyecto tiene como objetivo acercar la tecnología de análisis de energías renovables a aquellos interesados en el impacto y la viabilidad de estas soluciones en diferentes regiones.</p>
 
----
-
 ## **Características Principales**
 
 - 🌞 **Energía Solar**: Medición eficiente de la radiación solar.
@@ -18,8 +16,6 @@
 - 📊 **Interfaz Intuitiva**: Presentación clara y visualización de los datos recopilados.
 - 💼 **Portabilidad**: Diseño compacto y ligero, ideal para trabajos de campo.
 - 💡 **Accesibilidad**: Tecnología asequible sin comprometer la precisión ni la funcionalidad.
-
----
 
 ## **Estructura del Proyecto**
 
@@ -34,14 +30,10 @@ VentusSolarisAnalyzer/
 └── README.md     # Este archivo
 ```
 
----
-
 ## Motivación y Contexto
 <p align="justify">El acceso a herramientas confiables para la evaluación de energías renovables suele estar limitado por altos costos y falta de accesibilidad. VentusSolaris Analyzer nace con la intención de democratizar la evaluación energética, proporcionando una alternativa portátil y económica que puede ser implementada en áreas urbanas o rurales.</p>
 
 <p align="justify">Este proyecto también responde a la necesidad académica de ofrecer a los estudiantes experiencias prácticas en el uso de tecnologías renovables, facilitando la comprensión de conceptos como energía solar fotovoltaica y energía eólica en escenarios reales.</p>
-
----
 
 ## Resultados Esperados
 Con VentusSolaris Analyzer, se espera lograr:
@@ -51,8 +43,6 @@ Con VentusSolaris Analyzer, se espera lograr:
 - Prototipos escalables, que puedan mejorarse y adaptarse a necesidades más complejas en futuras iteraciones.
 
 <p align="justify">Estos logros contribuirán no solo al campo académico, sino también a la posibilidad de implementación en proyectos de desarrollo sostenible en comunidades con acceso limitado a recursos energéticos.</p>
-
----
 
 ## Equipo Actual (Proyecto Mejorado: VentusSolaris Analyzer)
 
@@ -64,8 +54,6 @@ Con VentusSolaris Analyzer, se espera lograr:
 | **Pérez Damián, Cindy Mayomi** | Investigación | Investigación sobre energías renovables | cindy.perez@upch.pe |
 | **Vásquez Nuñez, America Mailyn** | Investigación | Investigación sobre energías renovables | america.vasquez@upch.pe |
 
----
-
 ## Equipo Fundador (Proyecto Original: SolarWind Analyzer)
 
 | Miembro | Rol | Función Principal | Correo |
@@ -76,17 +64,11 @@ Con VentusSolaris Analyzer, se espera lograr:
 | **Poma Arrieta, Josue Jhordan** | Investigación | Investigación y desarrollo de la página web | josue.poma@upch.pe |
 | **Vidaurre Juárez, Amparo Marleny** | Coordinadora General | Coordinación general del proyecto | amparo.vidaurre@upch.pe |
 
----
-
 ## Documentación y Recursos
 <p align="justify">Toda la documentación técnica y manuales de usuario pueden encontrarse en la carpeta docs/, donde se detalla el funcionamiento interno del sistema, guías de uso y especificaciones de hardware. Además, en la carpeta examples/ se incluyen ejemplos para facilitar la configuración del kit en diferentes entornos.</p>
 
----
-
 ## Licencia
 <p align="justify">Este proyecto está licenciado bajo la Licencia MIT, lo que permite su uso, modificación y distribución para fines académicos y comerciales, siempre y cuando se otorgue el crédito adecuado.</p>
-
----
 
 ## Contacto
 <p align="justify">Si tienes alguna duda, sugerencia o interés en colaborar con el proyecto, no dudes en ponerte en contacto con nosotros a través de nuestros correos electrónicos.</p>
