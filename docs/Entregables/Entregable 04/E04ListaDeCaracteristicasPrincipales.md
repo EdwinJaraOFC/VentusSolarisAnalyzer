@@ -1,3 +1,11 @@
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/7d175927-ada3-49d1-9feb-c539e3595c73" width="200">
+  <h1 align="center">Entregable 04: Lista de Características y Requerimientos Principales</h1>
+</p>
+
+## Objetivo
+<p align="justify">Proporcionar una herramienta portátil y precisa para evaluar la viabilidad de instalar aerogeneradores o paneles solares en una ubicación específica.</p>
+
 ## Tabla "Función"
 | Característica Principal | Característica Secundaria | Estudio del Caso Industrial |
 | :------------: | :------------: | :------------: |
