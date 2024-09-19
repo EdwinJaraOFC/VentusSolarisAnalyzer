@@ -53,37 +53,39 @@ El Internet de las Cosas (IoT) permite la comunicación, el control y la gestió
 ### MONTAJE:
 Primero, realizamos el  montaje del Arduino MKR WiFi 1010 encima del MKR IoT Carrier, luego se debe conectar el sensor de humedad en la ranura A5 del carrier y así poder conectar el cable micro USB al ordenador.
 
-FOTO
-
 
 La MKR IoT Carrier tiene dos relés capaces de manejar hasta 24V de cada uno, todas las conexiones de este circuito y los relés se harán a través de estos conectores.
 
+<p align= "center">
+  <img src="https://github.com/user-attachments/assets/ddc83188-4d3e-4a37-adf7-bfdc49042213"200px"/>
+</p>
 
-FOT
+
 
 
 El agujero redondo de su base, es el que utilizamos para crear las conexiones. Una vez que introducimos los cables dentro de ellos, estos se bloquearán automáticamente estabilizando en el conector y las luces LED L1 y L2 de la carrier nos permiten conocer visualmente cuál es el estado de los relés. 
 
-NO - Significa normalmente abierto. Esto significa que cuando escribimos un estado HIGH en el relé, el pin NO se conecta con COM.
+- NO - Significa normalmente abierto. Esto significa que cuando escribimos un estado HIGH en el relé, el pin NO se conecta con COM.
 
 
-COM - Significa común y se utiliza como interruptor en un relé. Cuando se escribe una señal de ALTO o BAJO en un relé, el pin común estará entre NO o NC dependiendo de la configuración que estemos usando. 
+- COM - Significa común y se utiliza como interruptor en un relé. Cuando se escribe una señal de ALTO o BAJO en un relé, el pin común estará entre NO o NC dependiendo de la configuración que estemos usando. 
 CONFIGURACIÓN DEL CIRCUITO:
+
 Los relés qué utilizamos tienen una configuración NO, y esto significa qué los terminales NO y COM están conectados por defecto. 
 
-
-
-FOT
-
-
+<p align= "center">
+  <img src="https://github.com/user-attachments/assets/339ed69e-06bf-401a-b83a-5e58bc36215d"200px"/>
+</p>
 
 
 SENSOR MOISTURE:
 
 Este sensor es útil para proyectos de agricultura urbana, este es básico pero uno de los más potentes que existen. tiene dos conductores expuestos y es básicamente una resistencia disminuida  a medida qué se incrementa la conductividad. A  través de este sensor podemos determinar qué tan húmeda está la planta.
 
+<p align= "center">
+  <img src="https://github.com/user-attachments/assets/f6ef4af3-3af9-435e-995d-9361ab3a8f15"300/>
+</p>
 
-FOTOOO
 
 
 
