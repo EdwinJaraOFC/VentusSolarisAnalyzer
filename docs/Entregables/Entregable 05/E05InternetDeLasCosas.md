@@ -16,9 +16,6 @@ El análisis de datos recopilados por dispositivos IoT también permite prever p
 
 
 
-
-
-
 ## METODOLOGÍA:
 
 El kit que se usó en esta actividad contiene los siguientes componentes:
@@ -76,6 +73,13 @@ Una vez que introducimos los cables dentro de ellos, estos se bloquearán autom�
 CONFIGURACIÓN DEL CIRCUITO:
 
 Los relés qué utilizamos tienen una configuración NO, y esto significa qué los terminales NO y COM están conectados por defecto. 
+
+### CONEXIÓN:
+MKR WiFi 1010:
+- El pin 5V del MKR WiFi 1010 se conectará al pin central del MKR IoT Carrier.
+- El pin NC (normalmente abierto) pasa a través de un resistor que se conecta al ánodo del LED (parte positiva del LED).
+- El cátodo del LED (parte negativa) se conectará al pin de tierra (GND) del MKR WiFi 1010.
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/339ed69e-06bf-401a-b83a-5e58bc36215d" width="500" style="margin: auto;">
