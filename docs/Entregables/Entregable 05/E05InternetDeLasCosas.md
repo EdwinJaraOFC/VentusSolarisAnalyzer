@@ -47,7 +47,51 @@ El kit permite realizar diversas tareas:
 
 + Aplicación del pensamiento de diseño para crear soluciones efectivas e innovadoras.
 
-El Internet de las Cosas (IoT) permite la comunicación, el control y la gestión de dispositivos desde cualquier lugar con acceso a internet. Todo esto es facilitado por Arduino Cloud, una plataforma que proporciona plantillas y bocetos preconfigurados que pueden ser adaptados y utilizados de manera rápida y sencilla
+El Internet de las Cosas (IoT) permite la comunicación, el control y la gestión de dispositivos desde cualquier lugar con acceso a internet. Todo esto es facilitado por Arduino Cloud, una plataforma que proporciona plantillas y bocetos preconfigurados que pueden ser adaptados y utilizados de manera rápida y sencilla.
+
+
+### MONTAJE:
+Primero, realizamos el  montaje del Arduino MKR WiFi 1010 encima del MKR IoT Carrier, luego se debe conectar el sensor de humedad en la ranura A5 del carrier y así poder conectar el cable micro USB al ordenador.
+
+FOTO
+
+
+La MKR IoT Carrier tiene dos relés capaces de manejar hasta 24V de cada uno, todas las conexiones de este circuito y los relés se harán a través de estos conectores.
+
+
+FOT
+
+
+El agujero redondo de su base, es el que utilizamos para crear las conexiones. Una vez que introducimos los cables dentro de ellos, estos se bloquearán automáticamente estabilizando en el conector y las luces LED L1 y L2 de la carrier nos permiten conocer visualmente cuál es el estado de los relés. 
+
+NO - Significa normalmente abierto. Esto significa que cuando escribimos un estado HIGH en el relé, el pin NO se conecta con COM.
+
+
+COM - Significa común y se utiliza como interruptor en un relé. Cuando se escribe una señal de ALTO o BAJO en un relé, el pin común estará entre NO o NC dependiendo de la configuración que estemos usando. 
+CONFIGURACIÓN DEL CIRCUITO:
+Los relés qué utilizamos tienen una configuración NO, y esto significa qué los terminales NO y COM están conectados por defecto. 
+
+
+
+FOT
+
+
+
+
+SENSOR MOISTURE:
+
+Este sensor es útil para proyectos de agricultura urbana, este es básico pero uno de los más potentes que existen. tiene dos conductores expuestos y es básicamente una resistencia disminuida  a medida qué se incrementa la conductividad. A  través de este sensor podemos determinar qué tan húmeda está la planta.
+
+
+FOTOOO
+
+
+
+
+
+
+
+
 
 
 ## RESULTADOS:
