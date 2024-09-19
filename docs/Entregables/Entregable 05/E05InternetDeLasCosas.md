@@ -3,7 +3,7 @@
   <h1 align="center">Entregable 05: Internet de las Cosas (IoT)</h1>
 </p>
 
-## INTRODUCCÓN:
+## INTRODUCCIÓN:
 
 ¿Te imaginas que tu refrigerador te avise cuando te quedas sin tomates o te haga la lista de compras? Esto es posible gracias al Internet de las Cosas, una tecnología que conecta objetos cotidianos a la red para hacer nuestra vida más fácil[4].
 
@@ -45,6 +45,13 @@ El kit que se usó en esta actividad contiene los siguientes componentes:
 + Aplicación del pensamiento de diseño para crear soluciones efectivas e innovadoras.
 
 El Internet de las Cosas (IoT) permite la comunicación, el control y la gestión de dispositivos desde cualquier lugar con acceso a internet. Todo esto es facilitado por Arduino Cloud, una plataforma que proporciona plantillas y bocetos preconfigurados que pueden ser adaptados y utilizados de manera rápida y sencilla.
+
+### PLATAFORMA:
+Arduino Cloud es una plataforma en línea que permite a los usuarios conectar, gestionar y controlar sus dispositivos Arduino de manera sencilla y efectiva, tambien, ofrece herramientas para la creación de proyectos IoT, facilitando la recopilación y visualización de datos en tiempo real.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/93b809f9-c254-4ddd-b5eb-d3a4047ac99f" width="500" style="margin: auto;">
+</p>
 
 
 ### MONTAJE:
@@ -100,6 +107,7 @@ Este sensor es útil para proyectos de agricultura urbana, este es básico pero 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/52bba512-2859-4469-870c-6a29066dea98" width=500" style="margin: auto;">
 </p>
+
 
 
 
