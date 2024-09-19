@@ -23,6 +23,25 @@ El análisis de datos recopilados por dispositivos IoT también permite prever p
 
 
 
+
 ## RESULTADOS:
+
+
+
+## REFERENCIAS BIBLIOGRAFICAS:
+1. Arduino.cc. 2024
+   https://edu-content-preview.arduino.cc/content-preview/high_school/lesson/CONTENTPREVIEW+IOTSK
+   
+3. Gokhale P, Bhat O, Bhat S. Introduction to IOT. International Advanced Research Journal in Science, Engineering and Technology ISO [Internet]. 2007;3297(1).
+   https://iarjset.com/upload/2018/january-18/IARJSET%207.pdf
+
+4. Rivera J, Ramiro B, Lopera Sánchez A. Internet de las Cosas Internet de las Cosas [Internet].
+   https://proyectodescartes.org/iCartesiLibri/PDF/IoT.pdf
+
+
+5. Schultz T. MODERNIZACIÓN DE LA AGRICULTURA*
+   https://www.mapa.gob.es/ministerio/pags/Biblioteca/fondo/pdf/13382_3.pdf
+
+
 
 
