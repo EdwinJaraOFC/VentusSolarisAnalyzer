@@ -103,10 +103,14 @@ Este sensor es útil para proyectos de agricultura urbana, este es básico pero 
 
 
 ## RESULTADOS:
+Adjuntamos videos del funcionamiento:
+- Actualizacion de pantalla
+- Relé_1
+- Relé_2
+- rgb Color
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/52bba512-2859-4469-870c-6a29066dea98" width=500" style="margin: auto;">
-</p>
+
+Subir video 
 
 
 
