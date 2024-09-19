@@ -31,8 +31,8 @@ El kit que se usó en esta actividad contiene los siguientes componentes:
 
 -  Cable micro USB
 
-<p align= "center">
-  <img src="https://github.com/user-attachments/assets/db437e9e-c997-495d-82d7-4df221393357" width="500px"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/db437e9e-c997-495d-82d7-4df221393357" width="900" style="margin: auto;">
 </p>
 
 El kit permite realizar diversas tareas:
@@ -56,12 +56,9 @@ Primero, realizamos el  montaje del Arduino MKR WiFi 1010 encima del MKR IoT Car
 
 La MKR IoT Carrier tiene dos relés capaces de manejar hasta 24V de cada uno, todas las conexiones de este circuito y los relés se harán a través de estos conectores.
 
-<p align= "center">
-  <img src="https://github.com/user-attachments/assets/ddc83188-4d3e-4a37-adf7-bfdc49042213"200px"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ddc83188-4d3e-4a37-adf7-bfdc49042213" width="900" style="margin: auto;">
 </p>
-
-
-
 
 El agujero redondo de su base, es el que utilizamos para crear las conexiones. Una vez que introducimos los cables dentro de ellos, estos se bloquearán automáticamente estabilizando en el conector y las luces LED L1 y L2 de la carrier nos permiten conocer visualmente cuál es el estado de los relés. 
 
@@ -73,27 +70,17 @@ CONFIGURACIÓN DEL CIRCUITO:
 
 Los relés qué utilizamos tienen una configuración NO, y esto significa qué los terminales NO y COM están conectados por defecto. 
 
-<p align= "center">
-  <img src="https://github.com/user-attachments/assets/339ed69e-06bf-401a-b83a-5e58bc36215d"200px"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/339ed69e-06bf-401a-b83a-5e58bc36215d" width="900" style="margin: auto;">
 </p>
-
 
 SENSOR MOISTURE:
 
 Este sensor es útil para proyectos de agricultura urbana, este es básico pero uno de los más potentes que existen. tiene dos conductores expuestos y es básicamente una resistencia disminuida  a medida qué se incrementa la conductividad. A  través de este sensor podemos determinar qué tan húmeda está la planta.
 
-<p align= "center">
-  <img src="https://github.com/user-attachments/assets/f6ef4af3-3af9-435e-995d-9361ab3a8f15"300/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f6ef4af3-3af9-435e-995d-9361ab3a8f15" width="900" style="margin: auto;">
 </p>
-
-
-
-
-
-
-
-
-
 
 
 ## RESULTADOS:
