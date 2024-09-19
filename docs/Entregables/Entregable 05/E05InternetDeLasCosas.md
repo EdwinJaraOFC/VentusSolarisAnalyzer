@@ -52,15 +52,22 @@ El Internet de las Cosas (IoT) permite la comunicación, el control y la gestió
 
 ### MONTAJE:
 Primero, realizamos el  montaje del Arduino MKR WiFi 1010 encima del MKR IoT Carrier, luego se debe conectar el sensor de humedad en la ranura A5 del carrier y así poder conectar el cable micro USB al ordenador.
-
-
-La MKR IoT Carrier tiene dos relés capaces de manejar hasta 24V de cada uno, todas las conexiones de este circuito y los relés se harán a través de estos conectores.
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ddc83188-4d3e-4a37-adf7-bfdc49042213" width="500" style="margin: auto;">
 </p>
 
-El agujero redondo de su base, es el que utilizamos para crear las conexiones. Una vez que introducimos los cables dentro de ellos, estos se bloquearán automáticamente estabilizando en el conector y las luces LED L1 y L2 de la carrier nos permiten conocer visualmente cuál es el estado de los relés. 
+La MKR IoT Carrier tiene dos relés capaces de manejar hasta 24V de cada uno, todas las conexiones de este circuito y los relés se harán a través de estos conectores.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/88be0f7a-a42e-4c63-824f-e6e349ef1ad3" width="500" style="margin: auto;">
+</p>
+
+
+Una vez que introducimos los cables dentro de ellos, estos se bloquearán automáticamente estabilizando en el conector y las luces LED L1 y L2 de la carrier nos permiten conocer visualmente cuál es el estado de los relés. 
+
+
+
+
 
 - NO - Significa normalmente abierto. Esto significa que cuando escribimos un estado HIGH en el relé, el pin NO se conecta con COM.
 
