@@ -97,6 +97,11 @@ Este sensor es útil para proyectos de agricultura urbana, este es básico pero 
 
 ## RESULTADOS:
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/52bba512-2859-4469-870c-6a29066dea98" width=500" style="margin: auto;">
+</p>
+
+
 
 
 ## REFERENCIAS BIBLIOGRAFICAS:
