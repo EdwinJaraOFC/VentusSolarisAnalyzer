@@ -35,7 +35,7 @@ El kit que se usó en esta actividad contiene los siguientes componentes:
   <img src="https://github.com/user-attachments/assets/db437e9e-c997-495d-82d7-4df221393357" width="500" style="margin: auto;">
 </p>
 
-El kit permite realizar diversas tareas:
+### El kit permite realizar diversas tareas:
 
 + Gestión de dispositivos conectados mediante Arduino Cloud.
 
@@ -74,13 +74,14 @@ Los relés qué utilizamos tienen una configuración NO, y esto significa qué l
   <img src="https://github.com/user-attachments/assets/339ed69e-06bf-401a-b83a-5e58bc36215d" width="500" style="margin: auto;">
 </p>
 
-SENSOR MOISTURE:
+### SENSOR MOISTURE:
 
 Este sensor es útil para proyectos de agricultura urbana, este es básico pero uno de los más potentes que existen. tiene dos conductores expuestos y es básicamente una resistencia disminuida  a medida qué se incrementa la conductividad. A  través de este sensor podemos determinar qué tan húmeda está la planta.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f6ef4af3-3af9-435e-995d-9361ab3a8f15" width="500" style="margin: auto;">
 </p>
+
 
 
 ## RESULTADOS:
