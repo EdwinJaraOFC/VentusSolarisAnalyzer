@@ -21,7 +21,33 @@ El análisis de datos recopilados por dispositivos IoT también permite prever p
 
 ## METODOLOGÍA:
 
+El kit que se usó en esta actividad contiene los siguientes componentes:
 
+-   Arduino MKR WiFi 1010
+
+-  Operador IoT MKR
+
+-  Sensor de humedad
+
+-  Cable micro USB
+
+<p align= "center">
+  <img src="https://github.com/user-attachments/assets/db437e9e-c997-495d-82d7-4df221393357" width="500px"/>
+</p>
+
+El kit permite realizar diversas tareas:
+
++ Gestión de dispositivos conectados mediante Arduino Cloud.
+
++ Recopilación y análisis de datos desde los sensores integrados.
+
++ Visualización de la información para interpretar y tomar decisiones basadas en los datos recopilados.
+
++ Colaboración en el desarrollo de soluciones tecnológicas enfocadas en sostenibilidad mediante el uso de IoT.
+
++ Aplicación del pensamiento de diseño para crear soluciones efectivas e innovadoras.
+
+El Internet de las Cosas (IoT) permite la comunicación, el control y la gestión de dispositivos desde cualquier lugar con acceso a internet. Todo esto es facilitado por Arduino Cloud, una plataforma que proporciona plantillas y bocetos preconfigurados que pueden ser adaptados y utilizados de manera rápida y sencilla
 
 
 ## RESULTADOS:
