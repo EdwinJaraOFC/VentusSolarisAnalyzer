@@ -151,23 +151,7 @@ void loop() {
 ![image7](https://github.com/user-attachments/assets/d3b06042-b6d4-49af-8ba4-300a21fd02c2)
 
 ## RESULTADOS:
-Durante el taller, logramos ejecutar varios ejercicios prácticos con el ESP32 y diferentes sensores, obteniendo los siguientes resultados:
-
-### Lectura del Potenciómetro con el ESP32:
-
-- Conectamos el potenciómetro al pin 34 del ESP32 y subimos el código correspondiente.
-- Observamos que el potenciómetro generaba un valor de voltaje analógico que fue correctamente leído por el ADC (Conversor Analógico-Digital) del ESP32. Estos valores fueron enviados al monitor serie en tiempo real, lo que nos permitió observar cómo variaban según el ajuste del potenciómetro.
-- Mejoramos el código para calcular el promedio de varios valores del ADC y convertirlos a voltaje, lo que permitió obtener datos más precisos.
-### Escáner WiFi con ESP32:
-
-- Configuramos el ESP32 para escanear redes Wi-Fi cercanas. El dispositivo detectó correctamente el número de redes, mostrando el SSID, intensidad de señal (RSSI) y el tipo de cifrado de cada una.
-- Implementamos una conexión a un "hotspot" personal, y el ESP32 fue asignado con éxito a una dirección IP, lo que confirmó que el dispositivo estaba listo para interactuar con servicios en la nube.
-
-### Envío de Datos a la Nube (ThingSpeak):
-
-- Configuramos una cuenta en ThingSpeak y creamos un canal con campos definidos para recibir los datos enviados desde el ESP32.
-- El potenciómetro fue nuevamente utilizado, y sus lecturas fueron enviadas en tiempo real a la nube utilizando la API de ThingSpeak. Los datos se visualizaron en el dashboard de ThingSpeak, lo que demostró la capacidad del ESP32 para interactuar con plataformas IoT en la nube.
-- Además, implementamos un control remoto sobre un LED conectado al ESP32. Si el valor del potenciómetro excedía un umbral específico, el LED se encendía; de lo contrario, se apagaba. Esto fue gestionado a través de la plataforma web de ThingSpeak, lo que mostró el potencial de IoT para controlar dispositivos a distancia.
+Obtuvimos los resultados esperados en cada ejercicio, logrando capturar, procesar y enviar datos en tiempo real, además de controlar dispositivos remotamente a través de una plataforma IoT. Estos experimentos demuestran el uso eficiente de los microcontroladores y la infraestructura IoT para la automatización y monitoreo de dispositivos conectados con los códigos mejorados y personalizados a nuestras necesidades
 
 ### REFERENCIAS BIBLIOGRÁFICAS:
 
