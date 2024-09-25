@@ -38,4 +38,139 @@ Se proporcionó un código el cual se copió, compiló y recolectó datos y a pa
 ### 2.- Scanner WIFI con ESP32:
 
 Configurar el ESP32 para escanear redes Wi-Fi cercanas, mostrando el número de redes, el nombre (SSID), la intensidad de la señal (RSSI) y el tipo de cifrado. Los resultados se imprimirán en la serie del monitor, con una pausa de 5 segundos entre cada escaneo.
+![image4](https://github.com/user-attachments/assets/cb67d896-b57c-4fcf-b5a4-2df86913f969)
 
+Adicionalmente, generamos otro código que nos permite conectarnos a la red generada por un teléfono “hotspot” para tener acceso al envío y recepción de información a través del internet
+
+![image15](https://github.com/user-attachments/assets/636f6e4e-4690-4e24-b7b6-7c40c412b85e)
+
+
+Logrando conectarnos a un hotspot personal y siendo asignados a una IP
+
+![image17](https://github.com/user-attachments/assets/d98fc57c-1dff-4e45-84bc-172781926d10)
+
+# 3.Enviando datos a la nube
+Se desarrolló un código que permite monitorear en tiempo real la variación de un potenciómetro conectado al ESP32. Los datos se envían en tiempo real a la nube a través de la plataforma IoT que en este caso es ThingSpeak.
+Para ello se siguieron los siguientes pasos:
+- 1:Creación de la cuenta de ThingSpeak
+
+
+![image10](https://github.com/user-attachments/assets/212e66be-fe95-4221-8d30-5ea5e5d28e24)
+
+- 2:Una vez creada la cuenta, procedemos a crear un canal nuevo, como se muestra en la imagen:
+
+
+![image21](https://github.com/user-attachments/assets/dbf1f9c1-1421-4f31-9ad4-20f188cbf1ea)
+
+
+- 3:Ahora, procederemos a llenar solo los campos de Nombre del Canal, y los Field que serán las variables a enviar desde nuestro microcontrolador.
+- 4:Una vez creado el canal, nos mostrará la interfaz a continuación. Ahora, nos movemos hacia el punto API Keys.
+- 5:Una vez allí, copiamos el Channel ID y el Write API Key creada:
+
+![image2](https://github.com/user-attachments/assets/264dad7d-438c-4990-bd0a-818bd177b0c5)
+
+### Código:
+
+![image20](https://github.com/user-attachments/assets/475578ed-57ba-44e1-b7cd-4eef6df72f01)
+
+![image14](https://github.com/user-attachments/assets/bdebcd31-8b0c-48de-87aa-608110d50530)
+
+- 5: Por último, se conectó un LED en uno de los pines digitales del ESP32 y se controló su encendido desde una de las plataforma web:
+
+```
+
+#include <WiFi.h>
+#include "ThingSpeak.h"
+
+// Configura tu red Wi-Fi
+const char* ssid = "Redmi_9T";     
+const char* password = "12345678";  
+
+// Datos de ThingSpeak
+unsigned long myChannelNumber = 2662834;  
+const char* myWriteAPIKey = "66163MA96FU6L0SN";  
+
+WiFiClient client;
+
+const int potentiometerPin = 34;  // Pin donde está conectado el potenciómetro
+const int ledPin = 22;  // Pin donde está conectado el LED
+
+void setup() {
+  Serial.begin(115200);
+  
+  // Configurar Wi-Fi
+  WiFi.begin(ssid, password);
+  Serial.print("Conectando a WiFi...");
+  while (WiFi.status() != WL_CONNECTED) {
+    delay(500);
+    Serial.print(".");
+  }
+  Serial.println("Conectado!");
+
+  // Iniciar conexión con ThingSpeak
+  ThingSpeak.begin(client);
+
+  // Configurar el pin del LED como salida
+  pinMode(ledPin, OUTPUT);
+}
+
+void loop() {
+  // Leer el valor del potenciómetro (0 - 4095)
+  int potentiometerValue = analogRead(potentiometerPin);
+  
+  // Mostrar el valor en el monitor serie
+  Serial.print("Valor del potenciómetro: ");
+  Serial.println(potentiometerValue);
+
+  // Controlar el LED: si el valor del potenciómetro es mayor a 2000, encender el LED
+  if (potentiometerValue > 2000) {
+    digitalWrite(ledPin, HIGH);  // Encender el LED
+  } else {
+    digitalWrite(ledPin, LOW);  // Apagar el LED
+  }
+
+  // Escribir el valor en el canal de ThingSpeak
+  ThingSpeak.setField(1, potentiometerValue);  // Enviar a Field 1 del canal
+
+  // Enviar datos a ThingSpeak
+  int x = ThingSpeak.writeFields(myChannelNumber, myWriteAPIKey);
+  
+  if (x == 200) {
+    Serial.println("Datos enviados correctamente.");
+  } else {
+    Serial.println("Error al enviar los datos. Código de error: " + String(x));
+  }
+
+  // Esperar 15 segundos antes de enviar nuevamente (limite ThingSpeak)
+  delay(15000);
+}
+
+
+```
+
+![image7](https://github.com/user-attachments/assets/d3b06042-b6d4-49af-8ba4-300a21fd02c2)
+
+## RESULTADOS:
+Durante el taller, logramos ejecutar varios ejercicios prácticos con el ESP32 y diferentes sensores, obteniendo los siguientes resultados:
+
+### Lectura del Potenciómetro con el ESP32:
+
+- Conectamos el potenciómetro al pin 34 del ESP32 y subimos el código correspondiente.
+- Observamos que el potenciómetro generaba un valor de voltaje analógico que fue correctamente leído por el ADC (Conversor Analógico-Digital) del ESP32. Estos valores fueron enviados al monitor serie en tiempo real, lo que nos permitió observar cómo variaban según el ajuste del potenciómetro.
+- Mejoramos el código para calcular el promedio de varios valores del ADC y convertirlos a voltaje, lo que permitió obtener datos más precisos.
+### Escáner WiFi con ESP32:
+
+- Configuramos el ESP32 para escanear redes Wi-Fi cercanas. El dispositivo detectó correctamente el número de redes, mostrando el SSID, intensidad de señal (RSSI) y el tipo de cifrado de cada una.
+- Implementamos una conexión a un "hotspot" personal, y el ESP32 fue asignado con éxito a una dirección IP, lo que confirmó que el dispositivo estaba listo para interactuar con servicios en la nube.
+
+### Envío de Datos a la Nube (ThingSpeak):
+
+- Configuramos una cuenta en ThingSpeak y creamos un canal con campos definidos para recibir los datos enviados desde el ESP32.
+- El potenciómetro fue nuevamente utilizado, y sus lecturas fueron enviadas en tiempo real a la nube utilizando la API de ThingSpeak. Los datos se visualizaron en el dashboard de ThingSpeak, lo que demostró la capacidad del ESP32 para interactuar con plataformas IoT en la nube.
+- Además, implementamos un control remoto sobre un LED conectado al ESP32. Si el valor del potenciómetro excedía un umbral específico, el LED se encendía; de lo contrario, se apagaba. Esto fue gestionado a través de la plataforma web de ThingSpeak, lo que mostró el potencial de IoT para controlar dispositivos a distancia.
+
+### REFERENCIAS BIBLIOGRÁFICAS:
+
+- 1 Gokhale P, Bhat O, Bhat S. Introduction to IOT. International Advanced Research Journal in Science, Engineering and Technology ISO [Internet]. 2007;3297(1). https://iarjset.com/upload/2018/january-18/IARJSET%207.pdf
+
+- 2 Soumyalatha, S. G. H. (2016, May). Study of IoT: understanding IoT architecture, applications, issues and challenges. In 1st International Conference on Innovations in Computing & Net-working (ICICN16), CSE, RRCE. International Journal of Advanced Networking & Applications (Vol. 478).
