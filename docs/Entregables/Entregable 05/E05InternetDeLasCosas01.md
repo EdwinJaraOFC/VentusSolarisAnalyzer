@@ -17,77 +17,73 @@
 
 ## Metodología
 
-El kit que se usó en esta actividad contiene los siguientes componentes:
+<p align="justify">Para esta actividad se utilizó el Arduino Explore IoT Kit que incluye componentes clave del ecosistema IoT de Arduino. Este kit permitió la integración y gestión de dispositivos conectados, facilitando la recopilación de datos en tiempo real para análisis y toma de decisiones. A continuación, se detallan los componentes utilizados y las actividades realizadas.</p>
 
--   Arduino MKR WiFi 1010
--  Operador IoT MKR
--  Sensor de humedad
--  Cable micro USB
+### Componentes del Kit Utilizado:
+
+- <strong>Placa Arduino MKR WiFi 1010:</strong> Controlador principal para la gestión de dispositivos IoT.
+- <strong>MKR IoT Carrier:</strong> Un módulo diseñado para facilitar la integración de sensores y otros periféricos, que cuenta con:<br>- Dos relés de 24V para controlar dispositivos de alta potencia.<br>- Sensores de temperatura, humedad y luz.<br>- Sensor PIR (Infrarrojo Pasivo).
+- <strong>Cable Micro USB:</strong> Para la alimentación del dispositivo.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/db437e9e-c997-495d-82d7-4df221393357" width="500" style="margin: auto;">
 </p>
 
-<p align="justify">El kit permite realizar diversas tareas:</p>
+### Actividades Realizadas con el Kit:
 
-- Gestión de dispositivos conectados mediante Arduino Cloud.
-- Recopilación y análisis de datos desde los sensores integrados.
-- Visualización de la información para interpretar y tomar decisiones basadas en los datos recopilados.
-- Colaboración en el desarrollo de soluciones tecnológicas enfocadas en sostenibilidad mediante el uso de IoT.
-- Aplicación del pensamiento de diseño para crear soluciones efectivas e innovadoras.
+- <strong>Gestión de Dispositivos IoT:</strong> Uso de Arduino Cloud para conectar y controlar dispositivos de forma remota.
+- <strong>Recopilación y Análisis de Datos:</strong> Sensores integrados que permiten recolectar datos ambientales para su posterior procesamiento y análisis.
+- <strong>Visualización de Información:</strong> Interpretación gráfica de los datos para tomar decisiones basadas en la información recopilada.
+- <strong>Desarrollo de Soluciones Tecnológicas:</strong> Colaboración en el diseño de soluciones enfocadas en la sostenibilidad mediante IoT.
+- <strong>Aplicación del Pensamiento de Diseño:</strong> Creación de soluciones innovadoras y efectivas que abordan problemas reales a través de técnicas de diseño centradas en el usuario.
 
-<p align="justify">El Internet de las Cosas (IoT) permite la comunicación, el control y la gestión de dispositivos desde cualquier lugar con acceso a internet. Todo esto es facilitado por Arduino Cloud, una plataforma que proporciona plantillas y bocetos preconfigurados que pueden ser adaptados y utilizados de manera rápida y sencilla.</p>
+<p align="justify">A continuación, describimos el proceso que seguimos, desde el montaje de los componentes hasta la configuración y pruebas del sistema, con el objetivo de desarrollar una solución IoT funcional.</p>
 
-### Plataforma
+### Plataforma (Configuración en Arduino Cloud)
 
-<p align="justify">Arduino Cloud es una plataforma en línea que permite a los usuarios conectar, gestionar y controlar sus dispositivos Arduino de manera sencilla y efectiva, tambien, ofrece herramientas para la creación de proyectos IoT, facilitando la recopilación y visualización de datos en tiempo real.</p>
+Arduino Cloud es la herramienta utilizada para gestionar y controlar los dispositivos en nuestro proyecto de IoT. Esta plataforma facilita la comunicación y control remoto de dispositivos conectados a internet, proporcionando herramientas sencillas para recolección, análisis y visualización de datos en tiempo real.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/93b809f9-c254-4ddd-b5eb-d3a4047ac99f" width="500" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/86d8381e-220b-4519-a26b-3f65ffe22f5e" width="500">
+</p>
+
+Para llevar a cabo el trabajo, seguimos estos pasos:
+
+1. <strong>Registro en Arduino Cloud:</strong> Primero creamos una cuenta en la plataforma.
+2. <strong>Conexión del dispositivo:</strong> Se conectó el Arduino MKR WiFi 1010 mediante el Arduino Create Agent para su reconocimiento.
+3. <strong>Configuración de Things:</strong> Se crearon objetos virtuales para controlar los dispositivos desde la nube.
+4. <strong>Cargar bocetos (sketches):</strong> Se subieron los códigos necesarios para gestionar los sensores y relés.
+5. <strong>Diseñar el Panel de Control:</strong> Se creó un dashboard con widgets para monitorear y controlar variables como temperatura, humedad y los relés en tiempo real.
+
+El panel incluyó widgets para controlar y visualizar los datos de los sensores y dispositivos, lo que permitió un monitoreo eficiente y una interacción directa con el sistema.
+
+#### Datos importantes
+| Declaración de Variables en 'Things'  | Configuración de widgets en 'Dashboards'  |
+| :------------: | :------------: |
+| <p align="center"><img src="https://github.com/user-attachments/assets/a0705c75-0fcc-4bf9-a2a4-9e92e9682669" width="500" style="margin: auto;"></p>  | <p align="center"><img src="https://github.com/user-attachments/assets/e7921433-418f-4d1d-a387-7baa12cce9e0" width="500" style="margin: auto;"></p>  |
+
+#### Sección 'Dashboards'
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f27da7f6-9441-4f10-a3a3-f170eef63af9" width="500">
 </p>
 
 ### Montaje
 
-<p align="justify">Primero, realizamos el  montaje del Arduino MKR WiFi 1010 encima del MKR IoT Carrier, luego se debe conectar el sensor de humedad en la ranura A5 del carrier y así poder conectar el cable micro USB al ordenador.</p>
+<p align="justify">El montaje de los componentes comenzó con la colocación del Arduino MKR WiFi 1010 sobre el MKR IoT Carrier, asegurándonos de que ambos estuvieran correctamente conectados. Luego, se conectó el sensor de humedad en la ranura A5 del carrier, permitiendo medir la humedad del suelo. Finalmente, el cable micro USB se conectó al ordenador para proporcionar alimentación al sistema.</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ddc83188-4d3e-4a37-adf7-bfdc49042213" width="500" style="margin: auto;">
 </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f6ef4af3-3af9-435e-995d-9361ab3a8f15" width="500" style="margin: auto;">
+</p>
 
-<p align="justify">La MKR IoT Carrier tiene dos relés capaces de manejar hasta 24V de cada uno, todas las conexiones de este circuito y los relés se harán a través de estos conectores.</p>
+<p align="justify">El MKR IoT Carrier está equipado con dos relés, capaces de manejar hasta 24V, que permiten controlar dispositivos de alta potencia. Las conexiones de los relés se hicieron a través de los conectores dedicados, y las luces LED L1 y L2 indican visualmente el estado de activación de cada relé. Utilizamos la configuración NO (Normalmente Abierto), lo que significa que el circuito se cierra solo cuando se envía una señal de activación.</p>
+
+<p align="justify">Además, se incluyó un LED, conectado a través de una resistencia al pin NC (Normalmente Cerrado), que proporciona una indicación visual adicional del estado del relé. Este montaje garantizó una disposición correcta de los componentes y un funcionamiento adecuado del sistema, asegurando que todas las conexiones estuvieran correctamente establecidas.</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/88be0f7a-a42e-4c63-824f-e6e349ef1ad3" width="500" style="margin: auto;">
-</p>
-
-<p align="justify">Una vez que introducimos los cables dentro de ellos, estos se bloquearán automáticamente estabilizando en el conector y las luces LED L1 y L2 de la carrier nos permiten conocer visualmente cuál es el estado de los relés. </p>
-
-- NO - Significa normalmente abierto. Esto significa que cuando escribimos un estado HIGH en el relé, el pin NO se conecta con COM.
-
-
-- COM - Significa común y se utiliza como interruptor en un relé. Cuando se escribe una señal de ALTO o BAJO en un relé, el pin común estará entre NO o NC dependiendo de la configuración que estemos usando. 
-
-### Configuración del circuito
-
-<p align="justify">Los relés qué utilizamos tienen una configuración NO, y esto significa qué los terminales NO y COM están conectados por defecto. </p>
-
-### Conexión
-
-MKR WiFi 1010:
-- El pin 5V del MKR WiFi 1010 se conectará al pin central del MKR IoT Carrier.
-- El pin NC (normalmente abierto) pasa a través de un resistor que se conecta al ánodo del LED (parte positiva del LED).
-- El cátodo del LED (parte negativa) se conectará al pin de tierra (GND) del MKR WiFi 1010.
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/339ed69e-06bf-401a-b83a-5e58bc36215d" width="500" style="margin: auto;">
-</p>
-
-### Sensor Moisture
-
-<p align="justify">Este sensor es útil para proyectos de agricultura urbana, este es básico pero uno de los más potentes que existen. tiene dos conductores expuestos y es básicamente una resistencia disminuida  a medida qué se incrementa la conductividad. A  través de este sensor podemos determinar qué tan húmeda está la planta.</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f6ef4af3-3af9-435e-995d-9361ab3a8f15" width="500" style="margin: auto;">
 </p>
 
 ## Resultados
