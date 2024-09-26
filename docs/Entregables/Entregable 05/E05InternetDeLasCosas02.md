@@ -2,7 +2,8 @@
   <img src="https://github.com/user-attachments/assets/7d175927-ada3-49d1-9feb-c539e3595c73" width="200">
   <h1 align="center">Entregable 05: Internet de las Cosas (IoT) - ESP32</h1>
 </p>
-## INTRODUCCIÓN
+
+## Introducción
 
 ¿Te imaginas que tus cosas hablen entre sí? ¡Eso es IoT!
 
@@ -12,7 +13,7 @@ En este taller, nos enfocaremos en cómo programar dispositivos como el ESP32 y 
 
 Estos datos, como la temperatura, humedad o movimiento, son analizados en tiempo real, permitiendo aplicaciones que van desde el monitoreo remoto hasta la automatización. IoT no solo hace que los objetos sean más "inteligentes", sino que también abre un mundo de posibilidades para mejorar procesos en la industria, el hogar y la vida diaria.
 
-## METODOLOGÍA
+## Metodología
 
 La adquisición de datos capta información del entorno a través de sensores, para convertirla en señales digitales y realizar un análisis en tiempo real. Tiene aplicación en la automatización y monitoreo remoto. Los sensores miden variables como temperatura, luz, humedad y gases, mientras que un microcontrolador procesa la señal y la convierte en señales analógicas a digitales y luego los datos se envían a la nube o plataformas IoT.
 
@@ -101,11 +102,11 @@ Se desarrolló un código que permite monitorear en tiempo real la variación de
   <img src="https://github.com/user-attachments/assets/bdebcd31-8b0c-48de-87aa-608110d50530" width="500"/>
 </p>
 
-### RESULTADOS
+## Resultados
 
 Obtuvimos los resultados esperados en cada ejercicio, logrando capturar, procesar y enviar datos en tiempo real, además de controlar dispositivos remotamente a través de una plataforma IoT. Estos experimentos demuestran el uso eficiente de los microcontroladores y la infraestructura IoT para la automatización y monitoreo de dispositivos conectados, con los códigos mejorados y personalizados a nuestras necesidades.
 
-### REFERENCIAS BIBLIOGRÁFICAS
+## Referencias Bibliográficas
 
 1. Gokhale P, Bhat O, Bhat S. Introduction to IOT. International Advanced Research Journal in Science, Engineering and Technology ISO [Internet]. 2007;3297(1). https://iarjset.com/upload/2018/january-18/IARJSET%207.pdf
 2. Soumyalatha, S. G. H. (2016, May). Study of IoT: understanding IoT architecture, applications, issues and challenges. In 1st International Conference on Innovations in Computing & Net-working (ICICN16), CSE, RRCE. International Journal of Advanced Networking & Applications (Vol. 478).
