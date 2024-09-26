@@ -84,7 +84,29 @@ El panel incluyó widgets para controlar y visualizar los datos de los sensores 
   <img src="https://github.com/user-attachments/assets/88be0f7a-a42e-4c63-824f-e6e349ef1ad3" width="500" style="margin: auto;">
 </p>
 
+### Implementación del Código
+<p align="justify">Para que todo el sistema funcione de manera adecuada, implementamos el siguiente código en el Arduino MKR WiFi 1010. Este código permite la conexión con Arduino Cloud, la gestión de los dispositivos, la recolección de datos de los sensores y el control de los relés, garantizando así la operatividad del sistema IoT.</p>
+
+Carpeta del sketch: https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/tree/main/docs/Entregables/Entregable%2005/SketchWithArduinoMKR
+
+Código principal del sketch: https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Entregables/Entregable%2005/SketchWithArduinoMKR/Grupo06_IOT_PIG1_sep19a.ino
+
+La metodología para implementar el sistema se basa en los siguientes pasos:
+
+1. Integración del Código en la Plataforma Arduino Cloud: El código se carga en el entorno de Arduino Cloud, donde se inicializan las propiedades definidas en el archivo thingProperties.h. Esto establece las variables necesarias para el funcionamiento del dispositivo y la conexión a la nube.
+
+2. Configuración del Dispositivo: En el setup(), se inicia la comunicación serie y se establece una conexión con la nube, permitiendo que el dispositivo reciba y envíe datos. Se verifica la conexión con Arduino Cloud, mostrando un mensaje en la pantalla del carrier mientras se espera la conexión.
+
+3. Lectura de Sensores y Control de Dispositivos: En el loop(), se leen de forma continua los datos de los sensores. Las variables clave en este proceso son:<br>- temperatura: Almacena el valor de temperatura leído desde el sensor ambiental.<br>- humedad: Almacena el valor de humedad ambiental.<br>- luz: Almacena el nivel de luz.<br>- humedadValor: Indica el nivel de humedad del suelo, calculado a partir del valor analógico del sensor de humedad.
+
+4. Control de Relés: Se implementan condiciones para activar y desactivar relés, permitiendo controlar dispositivos externos. Las funciones relacionadas son:<br>- onRele1Change(): Maneja el cambio en el estado del relé 1, abriendo o cerrando el relé según la variable rele_1.<br>- onRele2Change(): Similar a onRele1Change(), pero para el relé 2.
+
+5. Actualización de la Pantalla y Visualización de Datos: Se crean funciones específicas para manejar cambios en las variables. Algunas de estas funciones son:<br>- onHumedadChange(): Se ejecuta cuando el valor de humedad cambia, imprimiendo el nuevo valor en el monitor serie.<br>- onTemperaturaChange(): Similar a onHumedadChange(), pero para cambios en la temperatura.<br>- onLuzChange(): Se ejecuta cuando el nivel de luz cambia, imprimiendo el nuevo valor.<br>- onHumedadValorChange(): Se ejecuta cuando el valor de humedad del suelo cambia, imprimiendo el nuevo valor.<br>- onRgbColorChange(): Maneja el cambio en el color RGB, activando los LED correspondientes en el carrier.<br>- onActualizacionPantallaChange(): Actualiza la pantalla con los valores actuales de temperatura, humedad, luz y el estado de los relés.
+
+6. Interacción con el Usuario: Las funciones de manejo de cambios permiten responder a interacciones del usuario, proporcionando un sistema dinámico que puede adaptarse a diferentes condiciones ambientales y requisitos de control.
+
 ## Resultados
+<p align="justify">Los resultados obtenidos a partir de la implementación del sistema IoT demuestran su eficacia en la recolección y visualización de datos en tiempo real. A través de los sensores conectados al Arduino MKR WiFi 1010, se monitorean variables como temperatura, humedad y luz, y estos datos son enviados a la nube mediante Arduino Cloud. La información se presenta de manera clara y accesible en los dashboards, permitiendo un control efectivo de los relés y facilitando la gestión de los dispositivos conectados. A continuación, se presentan videos que ilustran el funcionamiento del sistema en acción, donde se puede observar la interacción entre los sensores y la visualización de datos en tiempo real.</p>
 
 https://github.com/user-attachments/assets/9baa4d3f-f7d3-4bd1-8a04-bd1c22dba5bc
 
