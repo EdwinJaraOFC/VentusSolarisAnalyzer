@@ -98,13 +98,13 @@ Se desarrolló un código que permite monitorear en tiempo real la variación de
   <img src="https://github.com/user-attachments/assets/475578ed-57ba-44e1-b7cd-4eef6df72f01" width="500"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bdebcd31-8b0c-48de-87aa-608110d50530" width="500"/>
-</p>
-
 ## Resultados
 
 Obtuvimos los resultados esperados en cada ejercicio, logrando capturar, procesar y enviar datos en tiempo real, además de controlar dispositivos remotamente a través de una plataforma IoT. Estos experimentos demuestran el uso eficiente de los microcontroladores y la infraestructura IoT para la automatización y monitoreo de dispositivos conectados, con los códigos mejorados y personalizados a nuestras necesidades.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bdebcd31-8b0c-48de-87aa-608110d50530" width="500"/>
+</p>
 
 ## Referencias Bibliográficas
 
