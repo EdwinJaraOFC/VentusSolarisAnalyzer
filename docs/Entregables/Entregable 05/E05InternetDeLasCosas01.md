@@ -72,8 +72,8 @@ El panel incluyó widgets para controlar y visualizar los datos de los sensores 
 <p align="justify">El montaje de los componentes comenzó con la colocación del Arduino MKR WiFi 1010 sobre el MKR IoT Carrier, asegurándonos de que ambos estuvieran correctamente conectados. Luego, se conectó el sensor de humedad en la ranura A5 del carrier, permitiendo medir la humedad del suelo. Finalmente, el cable micro USB se conectó al ordenador para proporcionar alimentación al sistema.</p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/ddc83188-4d3e-4a37-adf7-bfdc49042213" width="420" style="margin: auto;">
-  <img src="https://github.com/user-attachments/assets/f6ef4af3-3af9-435e-995d-9361ab3a8f15" width="480" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/ddc83188-4d3e-4a37-adf7-bfdc49042213" width="430" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/f6ef4af3-3af9-435e-995d-9361ab3a8f15" width="470" style="margin: auto;">
 </div>
 
 <p align="justify">El MKR IoT Carrier está equipado con dos relés, capaces de manejar hasta 24V, que permiten controlar dispositivos de alta potencia. Las conexiones de los relés se hicieron a través de los conectores dedicados, y las luces LED L1 y L2 indican visualmente el estado de activación de cada relé. Utilizamos la configuración NO (Normalmente Abierto), lo que significa que el circuito se cierra solo cuando se envía una señal de activación.</p>
