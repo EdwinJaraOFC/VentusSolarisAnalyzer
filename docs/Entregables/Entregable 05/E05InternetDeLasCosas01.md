@@ -129,9 +129,9 @@ La metodología para implementar el sistema se basa en los siguientes pasos:
 ## Resultados
 <p align="justify">Los resultados obtenidos a partir de la implementación del sistema IoT demuestran su eficacia en la recolección y visualización de datos en tiempo real. A través de los sensores conectados al Arduino MKR WiFi 1010, se monitorean variables como temperatura, humedad y luz, y estos datos son enviados a la nube mediante Arduino Cloud. La información se presenta de manera clara y accesible en los dashboards, permitiendo un control efectivo de los relés y facilitando la gestión de los dispositivos conectados. A continuación, se presentan videos que ilustran el funcionamiento del sistema en acción, donde se puede observar la interacción entre los sensores y la visualización de datos en tiempo real.</p>
 
-https://github.com/user-attachments/assets/9baa4d3f-f7d3-4bd1-8a04-bd1c22dba5bc
+https://github.com/user-attachments/assets/b867b4f9-ae97-4095-acf2-fb069c0b0e75
 
-https://github.com/user-attachments/assets/a2b717f2-c55b-48d0-b0de-c2fd4d8f3e2a
+https://github.com/user-attachments/assets/7f61e12b-8231-4b53-b605-d3d3dbcfa26f
 
 https://github.com/user-attachments/assets/47757af4-9374-4a96-92a0-e721cacacc80
 
