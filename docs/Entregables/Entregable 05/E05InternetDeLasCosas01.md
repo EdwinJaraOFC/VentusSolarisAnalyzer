@@ -85,21 +85,12 @@ El panel incluyó widgets para controlar y visualizar los datos de los sensores 
 </p>
 
 ## Resultados
-#### Adjuntamos videos del funcionamiento:
-- Actualizacion de pantalla
-- Relé_1
-- Relé_2
-- rgb Color
 
-Subir video 
+https://github.com/user-attachments/assets/9baa4d3f-f7d3-4bd1-8a04-bd1c22dba5bc
 
-#### Valores de humedad:
+https://github.com/user-attachments/assets/a2b717f2-c55b-48d0-b0de-c2fd4d8f3e2a
 
-subir video
 
-#### LED
-
-SUBIR VIDEO
 
 
 ## Referencias Bibliográficas
