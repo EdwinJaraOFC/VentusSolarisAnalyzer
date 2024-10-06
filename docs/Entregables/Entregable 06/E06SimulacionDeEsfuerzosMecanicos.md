@@ -78,8 +78,8 @@
 <p align="justify">Ingresamos a SimScale, una plataforma de simulación en línea, y creamos un nuevo proyecto. Una vez en la plataforma, importamos los modelos 3D en formato **STL** que previamente habíamos exportado desde Onshape. Este proceso nos permitió cargar los diseños y preparar las condiciones necesarias para las simulaciones de esfuerzo.</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7ce21ec3-4c74-46e0-98f7-9d244a29fea8" width="500" style="margin: auto;">
-  <img src="https://github.com/user-attachments/assets/394fde23-d0df-4910-b9d3-1ce5958ed628" width="500" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/7ce21ec3-4c74-46e0-98f7-9d244a29fea8" width="490" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/394fde23-d0df-4910-b9d3-1ce5958ed628" width="510" style="margin: auto;">
 </p>
 
 ### Paso 6: Configuración de soportes fijos
