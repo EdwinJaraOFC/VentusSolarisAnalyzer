@@ -47,7 +47,7 @@
 <p align="justify">Luego del realizado del modelado en 3D de los cases para alojar el arduino nano y el sensor fotoeléctrico, asegurándonos que las dimensiones y la estructura del diseño permiten la correcta fijación gracias a los agujeros de soporte para tornillos, exportamos e integramos a SimScale los modelos gracias a la plataforma Onshape, preparados para llevar a cabo las simulaciones de esfuerzos estáticos, usando como material principal PLA, según fue establecido en este documento.</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7a99e1f8-a043-4c2a-ad1a-4d7b639e1d93" width="500" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/7a99e1f8-a043-4c2a-ad1a-4d7b639e1d93" width="510" style="margin: auto;">
   <img src="https://github.com/user-attachments/assets/1c781880-6a27-4bc8-b460-46477db66676" width="490" style="margin: auto;">
   <img src="https://github.com/user-attachments/assets/f775fe8e-586b-4d27-a14d-38395bb6c92b" width="500" style="margin: auto;">
   <img src="https://github.com/user-attachments/assets/f37e50c8-d6f2-498c-b6a1-4c28c2d77d77" width="500" style="margin: auto;">
