@@ -20,27 +20,56 @@
 <p align="justify">El material principal utilizado es el PLA (ácido poliláctico), un polímero biodegradable obtenido a partir de recursos renovables como el almidón de maíz, la caña de azúcar o la tapioca. Este material se presenta como una alternativa sostenible a los plásticos convencionales derivados del petróleo. Gracias a su rigidez, facilidad de manejo y sostenibilidad, el PLA es adecuado para la simulación de esfuerzos estáticos. No obstante, su fragilidad lo limita en aplicaciones que requieren alta resistencia mecánica o a impactos. A pesar de ello, resulta útil para evaluar el comportamiento de los componentes bajo cargas estáticas, permitiendo comprender mejor sus límites y capacidades [1].</p>
 
 <p align="justify">La simulación mediante la técnica FEM descompone modelos complejos en pequeñas secciones, lo cual calcula los esfuerzos y deformaciones. SimScale permite realizar estos cálculos de manera eficiente, proporcionando representaciones visuales que muestran las concentraciones de esfuerzos y deformaciones en la estructura analizada. Esto ayuda a identificar las zonas donde la estructura puede experimentar mayores tensiones bajo la carga aplicada [3].</p>
-  
-### Procedimiento realizado:
-#### Paso 1: Se seleccionó el componente
 
-1. Para ello usamos el ejemplo del video tutorial(bracket)
-2. Se importa a SimScale para hacer la simulación de esfuerzos estáticos.
+### Paso 1: Creación del proyecto en Onshape
 
-#### Paso 2: Definimos el material
+- Iniciamos el proceso creando un nuevo proyecto en Onshape, una plataforma de modelado 3D basada en la nube. El objetivo del proyecto era diseñar los cases para el Arduino Nano y el sensor SUF268J001, asegurándonos de que encajaran perfectamente y cumplieran con las especificaciones físicas de los componentes.
 
-1. Seleccionamos PLA (material principal)
+### Paso 2: Importación de modelos 3D
 
-#### Paso 3: Definimos el contorno (según el video)
+- Para garantizar que los cases se ajustaran adecuadamente, comenzamos importando los modelos 3D del Arduino Nano y del sensor SUF268J001, disponibles en línea. Esto nos proporcionó las dimensiones exactas de los dispositivos, lo que nos permitió diseñar los cases con un nivel de precisión óptimo.
 
-1. En la simulación a un extremo se fijó para restringir su movimiento
-2. Al otro extremo se aplica una carga estática.
+### Paso 3: Modelado de los cases
 
-#### Paso 4: Generación de la malla
+- Comenzamos el modelado creando perfiles en 2D usando la herramienta **Sketch**. Estos perfiles representaban la forma básica de los cases para el Arduino Nano y el sensor, basándonos en las dimensiones importadas previamente.
 
-1. Se realizó el mallado del modelo utilizando una malla tetraédrica.
-2. Se refinó la malla en las zonas clave, como los puntos donde se aplicó la carga y las áreas cercanas.
-3. Se seleccionó una malla más densa en estas áreas de interés para mejorar la precisión de los resultados.
+- Posteriormente, utilizamos la herramienta **Extrude** para transformar estos perfiles en sólidos 3D, especificando el grosor de las paredes y el tamaño de cada elemento. En este paso, agregamos detalles como los agujeros para tornillos, ranuras para conectores y soportes internos que aseguran un ajuste preciso.
+
+- Para reducir el peso y la cantidad de material utilizado en la impresión 3D, aplicamos la herramienta **Shell** a los modelos, vaciando su interior y manteniendo solo las paredes con el grosor necesario para garantizar su resistencia estructural. Este paso fue fundamental para optimizar el diseño sin comprometer la funcionalidad de los cases.
+
+- Una vez modeladas las piezas, realizamos pruebas de ensamblaje virtual en Onshape para asegurarnos de que cada componente encajara correctamente con el Arduino Nano y el sensor. De esta forma, garantizamos que los cases pudieran alojar los dispositivos de manera precisa y segura.
+
+### Paso 4: Exportación del modelo
+
+- Con el modelado completo, el siguiente paso fue exportar los diseños en formato **STL** desde Onshape, lo que nos permitió utilizarlos en la plataforma SimScale para llevar a cabo simulaciones de esfuerzo y deformación. Esta exportación se realizó asegurando que todos los detalles del diseño estuvieran correctamente definidos, lo cual es esencial para obtener resultados precisos en las simulaciones.
+
+### Paso 5: Importación del modelo en SimScale
+
+- Ingresamos a SimScale, una plataforma de simulación en línea, y creamos un nuevo proyecto. Una vez en la plataforma, importamos los modelos 3D en formato **STL** que previamente habíamos exportado desde Onshape. Este proceso nos permitió cargar los diseños y preparar las condiciones necesarias para las simulaciones de esfuerzo.
+
+### Paso 6: Configuración de las condiciones de contorno
+
+- El siguiente paso fue configurar las condiciones de contorno para las simulaciones. Definimos los parámetros de las fuerzas aplicadas sobre los modelos, asignando una fuerza de **400 N** en las direcciones X e Y sobre las caras seleccionadas, simulando las condiciones de carga que los cases enfrentarían en el uso real.
+
+- Para esto, utilizamos la opción **Force** dentro de SimScale y seleccionamos las superficies correspondientes de los modelos donde se aplicarían las fuerzas. Establecimos los valores de las fuerzas para evaluar cómo se comportarían los cases bajo presión en situaciones reales.
+
+### Paso 7: Configuración de soportes fijos
+
+- Para asegurar que algunas partes del case permanecieran inmóviles durante la simulación, añadimos restricciones usando la opción **Fixed Support**. Seleccionamos las caras donde los cases estarían anclados en su uso práctico, fijándolas para simular un entorno realista y evaluar cómo reaccionarían otras áreas del diseño ante las fuerzas aplicadas.
+
+### Paso 8: Generación de la malla
+
+- El modelo se malló utilizando una malla tetraédrica. Refinamos la malla en las áreas clave, como las zonas donde se aplicaron las fuerzas y las áreas cercanas a las restricciones. Seleccionamos una malla más densa en estas áreas para obtener una mayor precisión en los resultados de la simulación.
+
+### Paso 9: Lanzamiento de las simulaciones
+
+- Con las fuerzas y las restricciones aplicadas, procedimos a lanzar las simulaciones. Este proceso nos permitió calcular cómo las fuerzas aplicadas afectarían las distintas áreas del case, generando mapas de tensiones y deformaciones.
+
+### Paso 10: Análisis de los resultados
+
+- Los resultados de las simulaciones nos proporcionaron mapas de tensiones y desplazamientos que indicaban las zonas más críticas del diseño. Las áreas con mayor concentración de fuerzas y las zonas con posibles deformaciones fueron identificadas y evaluadas para asegurar que el diseño fuera capaz de soportar las condiciones reales.
+
+- Simulamos, además, una carga de viento representativa con velocidades de hasta **90 km/h**, que reflejaba situaciones extremas en el entorno de instalación del dispositivo. Este análisis nos permitió validar la resistencia del case y confirmar que su diseño era adecuado para las condiciones previstas.
 
 ## Resultados
 
