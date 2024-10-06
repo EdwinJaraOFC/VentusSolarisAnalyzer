@@ -14,3 +14,7 @@ El análisis de esfuerzos estáticos permite estudiar cómo los materiales respo
 <p align="justify"> El material principal utilizado es el PLA (ácido poliláctico), un polímero biodegradable obtenido a partir de recursos renovables como el almidón de maíz, la caña de azúcar o la tapioca. Este material se presenta como una alternativa sostenible a los plásticos convencionales derivados del petróleo. Gracias a su rigidez, facilidad de manejo y sostenibilidad, el PLA es adecuado para la simulación de esfuerzos estáticos. No obstante, su fragilidad lo limita en aplicaciones que requieren alta resistencia mecánica o a impactos. A pesar de ello, resulta útil para evaluar el comportamiento de los componentes bajo cargas estáticas, permitiendo comprender mejor sus límites y capacidades.[4].
   
 ## Resultados
+## Referencias Bibliograficas:
+1.- Tipán-Suárez, A. M., Beltran-Chamba, C. M., Jima-Matailo, J. C., & Vinueza-Sánchez, R. D. (2020). Diseño Mecatrónico para la fabricación de una impresora 3D. Dominio de las Ciencias, 6(3), 694-714.
+
+2.- Suárez, M. H., Coronel, C. E. I., Cueto, O. G., Bravo, E. L., & Iznaga, Á. S. (2008). Simulación mediante el Método de Elementos Finitos de la respuesta mecánica de un Oxisol. Revista Ciencias Técnicas Agropecuarias, 17(2), 55-61.
