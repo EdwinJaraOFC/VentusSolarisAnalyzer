@@ -13,8 +13,32 @@
 <p align="justify">El análisis de esfuerzos estáticos permite estudiar cómo los materiales responden a cargas que se aplican de manera lenta y continua hasta alcanzar un equilibrio. Este enfoque asume que no hay aceleraciones ni efectos dinámicos, lo que facilita el estudio de la distribución de fuerzas y deformaciones en un entorno estable y predecible. Este análisis se basa en la mecánica de sólidos, evaluando cómo las fuerzas externas generan esfuerzos internos y deformaciones. 
 <p align="justify"> El material principal utilizado es el PLA (ácido poliláctico), un polímero biodegradable obtenido a partir de recursos renovables como el almidón de maíz, la caña de azúcar o la tapioca. Este material se presenta como una alternativa sostenible a los plásticos convencionales derivados del petróleo. Gracias a su rigidez, facilidad de manejo y sostenibilidad, el PLA es adecuado para la simulación de esfuerzos estáticos. No obstante, su fragilidad lo limita en aplicaciones que requieren alta resistencia mecánica o a impactos. A pesar de ello, resulta útil para evaluar el comportamiento de los componentes bajo cargas estáticas, permitiendo comprender mejor sus límites y capacidades.[1].
 <p align="justify"> La simulación mediante la técnica FEM descompone modelos complejos en pequeñas secciones, lo cual calcula los esfuerzos y deformaciones. SimScale permite realizar estos cálculos de manera eficiente, proporcionando representaciones visuales que muestran las concentraciones de esfuerzos y deformaciones en la estructura analizada. Esto ayuda a identificar las zonas donde la estructura puede experimentar mayores tensiones bajo la carga aplicada[3].
-
   
+### PASOS:
+#### 1. Primero se seleccionó el componente
+   
+  1.1 Para ello usamos el ejemplo del video tutorial(bracket)
+   
+  1.2 Se importa a SimScale para hacer la simulación de esfuerzos estáticos.
+
+#### 2. Definimos el material
+
+ 2.1 Seleccionamos PLA (material principal)
+
+#### 3. Definimos el contorno (según el video)
+
+ 3.1 En la simulación a un extremo se fijó para restringir su movimiento
+
+ 3.2 Al otro extremo se aplica una carga estática.
+
+#### 4. Generación de la malla: 
+
+ 4.1 Se realizó el mallado del modelo utilizando una malla tetraédrica.
+
+ 4.2 Se refinó la malla en las zonas clave, como los puntos donde se aplicó la carga y las áreas cercanas.
+
+ 4.3 Se seleccionó una malla más densa en estas áreas de interés para mejorar la precisión de los resultados.
+
 ## Resultados
 
 
