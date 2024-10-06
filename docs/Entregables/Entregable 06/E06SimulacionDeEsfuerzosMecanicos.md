@@ -43,9 +43,8 @@
 
 
 ## Referencias Bibliograficas:
+1: Ferri Azor, J. M., Carbonell Verdú, A., Montañés Muñoz, N., Jorda-Vilaplana, A., & Fenollar Gimeno, O. Á. (2014). Optimización de las propiedades mecánicas del compuesto PLA/PCL para su aplicación como material biocompatible.
 
-
-2.- Gutiérrez Quintero, W. (2014). Resistencia al desgaste abrasivo de recubrimientos producidos por proyección térmica para aplicaciones navales (Doctoral dissertation).
 
 3.- Suárez, M. H., Coronel, C. E. I., Cueto, O. G., Bravo, E. L., & Iznaga, Á. S. (2008). Simulación mediante el Método de Elementos Finitos de la respuesta mecánica de un Oxisol. Revista Ciencias Técnicas Agropecuarias, 17(2), 55-61.
 
