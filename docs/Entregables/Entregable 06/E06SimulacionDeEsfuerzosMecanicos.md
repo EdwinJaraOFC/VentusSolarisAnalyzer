@@ -43,7 +43,7 @@
 
 
 ## Referencias Bibliograficas:
-1: Ferri Azor, J. M., Carbonell Verdú, A., Montañés Muñoz, N., Jorda-Vilaplana, A., & Fenollar Gimeno, O. Á. (2014). Optimización de las propiedades mecánicas del compuesto PLA/PCL para su aplicación como material biocompatible.
+
 
 2.- Gutiérrez Quintero, W. (2014). Resistencia al desgaste abrasivo de recubrimientos producidos por proyección térmica para aplicaciones navales (Doctoral dissertation).
 
