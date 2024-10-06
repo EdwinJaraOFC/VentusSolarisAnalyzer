@@ -58,8 +58,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/267f3c2a-9574-40e7-bdc3-c60e9e6842d1" width="500" style="margin: auto;">
   <img src="https://github.com/user-attachments/assets/242b988d-a4f9-492d-9fe1-7e6bc8d156ed" width="500" style="margin: auto;">
-  <img src="https://github.com/user-attachments/assets/7decb55b-5954-4a99-b8d0-869f96b51f01" width="500" style="margin: auto;">
-  <img src="https://github.com/user-attachments/assets/fc880566-a384-4d93-96c0-5c18e9fd91a8" width="500" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/7decb55b-5954-4a99-b8d0-869f96b51f01" width="499" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/fc880566-a384-4d93-96c0-5c18e9fd91a8" width="501" style="margin: auto;">
 </p>
 
 <p align="justify">Las deformaciones fueron menores a 0.5 mm, confirmando que el modelo actual del caso no requiere modificaciones adicionales en términos de resistencia mecánica, listo para su implementación en el proyecto, siempre que las condiciones de operación no superen las especificadas en esta simulación.</p>
