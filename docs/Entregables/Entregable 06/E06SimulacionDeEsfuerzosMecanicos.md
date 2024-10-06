@@ -8,3 +8,8 @@
 <p align="justify"> La simulación por elementos finitos mediante el software SIMSCALE es una herramienta esencial en el proceso de diseño, ya que permite predecir y analizar efectos de diversos tipos de esfuerzos, como atracción, compresión, flexión, torsión y cortante, sobre las piezas diseñadas. Esta técnica es especialmente útil para identificar posibles fallas en materiales frágiles, como fracturas por esfuerzos superiores a su resistencia máxima o fallas por fatiga debido a cargas fluctuantes [2].
 <p align="justify"> Ademas, debemos considerar los factores externos, como la temperatura, estas pueden influir en la deformación y el desempeño estructural de las carcasas, existen algunas aplicaciones donde las carcasas protegen placas electrónicas cercanas a motores, es por eso qué es fundamental evaluar su resistencia térmica mediante simulaciones que modelen la deformación bajo diferentes condiciones de operación.
 <p align="justify"> En el presente informe se diseñó una simulación de esfuerzos mecánicos de uno de los componentes de nuestro proyecto, se ha tenido en cuenta la correcta selección del material y la orientación de la impresión, ya que juegan un papel importante en la optimización del rendimiento de las piezas impresas en 3D.
+
+## Metodologia
+
+
+## Resultados
