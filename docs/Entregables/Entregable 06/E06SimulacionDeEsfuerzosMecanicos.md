@@ -26,8 +26,8 @@
 <p align="justify">Iniciamos el proceso creando un nuevo proyecto en Onshape, una plataforma de modelado 3D basada en la nube. El objetivo del proyecto era diseñar los cases para el Arduino Nano y el sensor SUF268J001, asegurándonos de que encajaran perfectamente y cumplieran con las especificaciones físicas de los componentes.</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/80305021-accc-413a-bc5b-91cc40f04917" width="504" style="margin: auto;">
-  <img src="https://github.com/user-attachments/assets/f3a12de0-2fd7-4fcd-aa6c-0dd8f6193b28" width="496" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/80305021-accc-413a-bc5b-91cc40f04917" width="503" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/f3a12de0-2fd7-4fcd-aa6c-0dd8f6193b28" width="497" style="margin: auto;">
 </p>
 
 ### Paso 2: Importación de modelos 3D
