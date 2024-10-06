@@ -59,10 +59,10 @@
 
 ### Case para sensor SUF268J001
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d00238e6-2cac-4ec9-82fc-12f821e538a2" width="500" style="margin: auto;">
-  <img src="https://github.com/user-attachments/assets/d2888813-5b0f-4d6e-9de7-74ce8061496c" width="500" style="margin: auto;">
-  <img src="https://github.com/user-attachments/assets/80fd8039-0a83-48ec-9960-244b05a38261" width="500" style="margin: auto;">
-  <img src="https://github.com/user-attachments/assets/7606a1d6-7919-40a0-9ed1-0b3fc60c0f46" width="500" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/d00238e6-2cac-4ec9-82fc-12f821e538a2" width="250" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/d2888813-5b0f-4d6e-9de7-74ce8061496c" width="250" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/80fd8039-0a83-48ec-9960-244b05a38261" width="250" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/7606a1d6-7919-40a0-9ed1-0b3fc60c0f46" width="250" style="margin: auto;">
 </p>
 
 ### Paso 4: Exportación del modelo
