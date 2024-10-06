@@ -53,8 +53,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/31465de7-9abe-4d2a-a3fe-dbc2c54fcfa0" width="500" style="margin: auto;">
   <img src="https://github.com/user-attachments/assets/4fe7a348-aba4-4ffd-8907-00475d5e2538" width="500" style="margin: auto;">
-  <img src="https://github.com/user-attachments/assets/9d793a62-19c3-4665-9c23-42aaefedcc2e" width="513" style="margin: auto;">
-  <img src="https://github.com/user-attachments/assets/51545072-4f85-45ae-ae44-70f9a0c97980" width="486" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/9d793a62-19c3-4665-9c23-42aaefedcc2e" width="512" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/51545072-4f85-45ae-ae44-70f9a0c97980" width="487" style="margin: auto;">
 </p>
 
 ### Case para sensor SUF268J001
