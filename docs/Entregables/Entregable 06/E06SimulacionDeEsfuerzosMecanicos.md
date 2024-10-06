@@ -98,8 +98,8 @@
 <p align="justify">Para esto, utilizamos la opción **Force** dentro de SimScale y seleccionamos las superficies correspondientes de los modelos donde se aplicarían las fuerzas. Establecimos los valores de las fuerzas para evaluar cómo se comportarían los cases bajo presión en situaciones reales.</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/97619bad-8d4f-45a4-9831-5bc4df6ea79d" width="493" style="margin: auto;">
-  <img src="https://github.com/user-attachments/assets/f25b65cd-d35f-4a05-beb5-e349f5d76caf" width="507" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/97619bad-8d4f-45a4-9831-5bc4df6ea79d" width="494" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/f25b65cd-d35f-4a05-beb5-e349f5d76caf" width="506" style="margin: auto;">
 </p>
 
 ### Paso 8: Lanzamiento de las simulaciones
