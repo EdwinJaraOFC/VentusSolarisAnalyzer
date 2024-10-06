@@ -26,7 +26,8 @@
 <p align="justify">Iniciamos el proceso creando un nuevo proyecto en Onshape, una plataforma de modelado 3D basada en la nube. El objetivo del proyecto era diseñar los cases para el Arduino Nano y el sensor SUF268J001, asegurándonos de que encajaran perfectamente y cumplieran con las especificaciones físicas de los componentes.</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/80305021-accc-413a-bc5b-91cc40f04917" width="535" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/80305021-accc-413a-bc5b-91cc40f04917" width="500" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/f3a12de0-2fd7-4fcd-aa6c-0dd8f6193b28" width="500" style="margin: auto;">
 </p>
 
 ### Paso 2: Importación de modelos 3D
@@ -34,7 +35,8 @@
 <p align="justify">Para garantizar que los cases se ajustaran adecuadamente, comenzamos importando los modelos 3D del Arduino Nano y del sensor SUF268J001, disponibles en línea. Esto nos proporcionó las dimensiones exactas de los dispositivos, lo que nos permitió diseñar los cases con un nivel de precisión óptimo.</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/80305021-accc-413a-bc5b-91cc40f04917" width="535" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/bee7ac89-3fe8-4f19-9bba-ea8aa1fd8dfd" width="500" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/76a13de6-4985-4082-bbcf-9fcc0162545d" width="500" style="margin: auto;">
 </p>
 
 ### Paso 3: Modelado de los cases
@@ -47,8 +49,20 @@
 
 <p align="justify">Una vez modeladas las piezas, realizamos pruebas de ensamblaje virtual en Onshape para asegurarnos de que cada componente encajara correctamente con el Arduino Nano y el sensor. De esta forma, garantizamos que los cases pudieran alojar los dispositivos de manera precisa y segura.</p>
 
+### Case para Arduino Nano
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/80305021-accc-413a-bc5b-91cc40f04917" width="535" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/31465de7-9abe-4d2a-a3fe-dbc2c54fcfa0" width="500" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/4fe7a348-aba4-4ffd-8907-00475d5e2538" width="500" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/9d793a62-19c3-4665-9c23-42aaefedcc2e" width="500" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/51545072-4f85-45ae-ae44-70f9a0c97980" width="500" style="margin: auto;">
+</p>
+
+### Case para sensor SUF268J001
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d00238e6-2cac-4ec9-82fc-12f821e538a2" width="500" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/d2888813-5b0f-4d6e-9de7-74ce8061496c" width="500" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/80fd8039-0a83-48ec-9960-244b05a38261" width="500" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/7606a1d6-7919-40a0-9ed1-0b3fc60c0f46" width="500" style="margin: auto;">
 </p>
 
 ### Paso 4: Exportación del modelo
@@ -56,7 +70,8 @@
 <p align="justify">Con el modelado completo, el siguiente paso fue exportar los diseños en formato **STL** desde Onshape, lo que nos permitió utilizarlos en la plataforma SimScale para llevar a cabo simulaciones de esfuerzo y deformación. Esta exportación se realizó asegurando que todos los detalles del diseño estuvieran correctamente definidos, lo cual es esencial para obtener resultados precisos en las simulaciones.</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/80305021-accc-413a-bc5b-91cc40f04917" width="535" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/59027319-a40b-4f7d-913f-99a2e1f7b514" width="500" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/e17f071c-ac2f-43b0-8433-72308969ed6c" width="500" style="margin: auto;">
 </p>
 
 ### Paso 5: Importación del modelo en SimScale
@@ -64,51 +79,38 @@
 <p align="justify">Ingresamos a SimScale, una plataforma de simulación en línea, y creamos un nuevo proyecto. Una vez en la plataforma, importamos los modelos 3D en formato **STL** que previamente habíamos exportado desde Onshape. Este proceso nos permitió cargar los diseños y preparar las condiciones necesarias para las simulaciones de esfuerzo.</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/80305021-accc-413a-bc5b-91cc40f04917" width="535" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/7ce21ec3-4c74-46e0-98f7-9d244a29fea8" width="500" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/394fde23-d0df-4910-b9d3-1ce5958ed628" width="500" style="margin: auto;">
 </p>
 
-### Paso 6: Configuración de las condiciones de contorno
-
-<p align="justify">El siguiente paso fue configurar las condiciones de contorno para las simulaciones. Definimos los parámetros de las fuerzas aplicadas sobre los modelos, asignando una fuerza de **400 N** en las direcciones X e Y sobre las caras seleccionadas, simulando las condiciones de carga que los cases enfrentarían en el uso real.</p>
-
-<p align="justify">Para esto, utilizamos la opción **Force** dentro de SimScale y seleccionamos las superficies correspondientes de los modelos donde se aplicarían las fuerzas. Establecimos los valores de las fuerzas para evaluar cómo se comportarían los cases bajo presión en situaciones reales.</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/80305021-accc-413a-bc5b-91cc40f04917" width="535" style="margin: auto;">
-</p>
-
-### Paso 7: Configuración de soportes fijos
+### Paso 6: Configuración de soportes fijos
 
 <p align="justify">Para asegurar que algunas partes del case permanecieran inmóviles durante la simulación, añadimos restricciones usando la opción **Fixed Support**. Seleccionamos las caras donde los cases estarían anclados en su uso práctico, fijándolas para simular un entorno realista y evaluar cómo reaccionarían otras áreas del diseño ante las fuerzas aplicadas.</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/80305021-accc-413a-bc5b-91cc40f04917" width="535" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/81be6d7d-f68a-4514-82ea-3d8b618710f0" width="535" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/e0723716-d00a-4be7-8a63-bf6234fcaec2" width="535" style="margin: auto;">
 </p>
 
-### Paso 8: Generación de la malla
+### Paso 7: Configuración de las condiciones de contorno
 
-<p align="justify">El modelo se malló utilizando una malla tetraédrica. Refinamos la malla en las áreas clave, como las zonas donde se aplicaron las fuerzas y las áreas cercanas a las restricciones. Seleccionamos una malla más densa en estas áreas para obtener una mayor precisión en los resultados de la simulación.</p>
+<p align="justify">El siguiente paso fue configurar las condiciones de contorno para las simulaciones. Definimos los parámetros de las fuerzas aplicadas sobre los modelos, asignando fuerzas en las direcciones X, Y e Z sobre las caras seleccionadas, simulando las condiciones de carga que los cases enfrentarían en el uso real.</p>
+
+<p align="justify">Para esto, utilizamos la opción **Force** dentro de SimScale y seleccionamos las superficies correspondientes de los modelos donde se aplicarían las fuerzas. Establecimos los valores de las fuerzas para evaluar cómo se comportarían los cases bajo presión en situaciones reales.</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/80305021-accc-413a-bc5b-91cc40f04917" width="535" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/97619bad-8d4f-45a4-9831-5bc4df6ea79d" width="535" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/f25b65cd-d35f-4a05-beb5-e349f5d76caf" width="535" style="margin: auto;">
 </p>
 
-### Paso 9: Lanzamiento de las simulaciones
+### Paso 8: Lanzamiento de las simulaciones
 
 <p align="justify">Con las fuerzas y las restricciones aplicadas, procedimos a lanzar las simulaciones. Este proceso nos permitió calcular cómo las fuerzas aplicadas afectarían las distintas áreas del case, generando mapas de tensiones y deformaciones.</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/80305021-accc-413a-bc5b-91cc40f04917" width="535" style="margin: auto;">
-</p>
-
-### Paso 10: Análisis de los resultados
-
-<p align="justify">Los resultados de las simulaciones nos proporcionaron mapas de tensiones y desplazamientos que indicaban las zonas más críticas del diseño. Las áreas con mayor concentración de fuerzas y las zonas con posibles deformaciones fueron identificadas y evaluadas para asegurar que el diseño fuera capaz de soportar las condiciones reales.</p>
-
-<p align="justify">Simulamos, además, una carga de viento representativa con velocidades de hasta **90 km/h**, que reflejaba situaciones extremas en el entorno de instalación del dispositivo. Este análisis nos permitió validar la resistencia del case y confirmar que su diseño era adecuado para las condiciones previstas.</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/80305021-accc-413a-bc5b-91cc40f04917" width="535" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/18526f2a-f5db-409c-b7b9-801138abd9a9" width="535" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/0d20e6df-a88d-4710-96d2-e6fdfe214687" width="535" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/3b4505ec-2715-4199-a8fe-e26d5c3ec9a8" width="535" style="margin: auto;">
 </p>
 
 ## Resultados
