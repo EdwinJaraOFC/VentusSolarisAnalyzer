@@ -49,8 +49,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7a99e1f8-a043-4c2a-ad1a-4d7b639e1d93" width="511" style="margin: auto;">
   <img src="https://github.com/user-attachments/assets/1c781880-6a27-4bc8-b460-46477db66676" width="488" style="margin: auto;">
-  <img src="https://github.com/user-attachments/assets/f775fe8e-586b-4d27-a14d-38395bb6c92b" width="500" style="margin: auto;">
-  <img src="https://github.com/user-attachments/assets/f37e50c8-d6f2-498c-b6a1-4c28c2d77d77" width="500" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/f775fe8e-586b-4d27-a14d-38395bb6c92b" width="499" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/f37e50c8-d6f2-498c-b6a1-4c28c2d77d77" width="501" style="margin: auto;">
 </p>
 
 <p align="justify">Analizamos los mapas de tensiones y deformaciones generadas por la fuerza aplicada en una de las caras del sistema, con esto logramos identificar las zonas críticas del diseño. Los mapas de color obtenidos destacan las concentraciones de fuerzas, que evaluamos para determinar si el case era capaz de soportar las condiciones que se presenten en la ubicación que elegimos para instalar el maletín. Simulamos una carga de viento representativa con velocidades de hasta 90 km/h.</p>
