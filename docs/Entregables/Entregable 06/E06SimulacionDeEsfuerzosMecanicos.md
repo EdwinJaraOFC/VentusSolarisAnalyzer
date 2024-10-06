@@ -10,6 +10,7 @@
 <p align="justify"> En el presente informe se diseñó una simulación de esfuerzos mecánicos de uno de los componentes de nuestro proyecto, se ha tenido en cuenta la correcta selección del material y la orientación de la impresión, ya que juegan un papel importante en la optimización del rendimiento de las piezas impresas en 3D.
 
 ## Metodologia
-
-
+El análisis de esfuerzos estáticos permite estudiar cómo los materiales responden a cargas que se aplican de manera lenta y continua hasta alcanzar un equilibrio. Este enfoque asume que no hay aceleraciones ni efectos dinámicos, lo que facilita el estudio de la distribución de fuerzas y deformaciones en un entorno estable y predecible. Este análisis se basa en la mecánica de sólidos, evaluando cómo las fuerzas externas generan esfuerzos internos y deformaciones. 
+<p align="justify"> El material principal utilizado es el PLA (ácido poliláctico), un polímero biodegradable obtenido a partir de recursos renovables como el almidón de maíz, la caña de azúcar o la tapioca. Este material se presenta como una alternativa sostenible a los plásticos convencionales derivados del petróleo. Gracias a su rigidez, facilidad de manejo y sostenibilidad, el PLA es adecuado para la simulación de esfuerzos estáticos. No obstante, su fragilidad lo limita en aplicaciones que requieren alta resistencia mecánica o a impactos. A pesar de ello, resulta útil para evaluar el comportamiento de los componentes bajo cargas estáticas, permitiendo comprender mejor sus límites y capacidades.[4].
+  
 ## Resultados
