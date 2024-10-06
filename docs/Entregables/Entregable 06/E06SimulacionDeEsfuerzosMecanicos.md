@@ -46,7 +46,21 @@
 
 <p align="justify">Luego del realizado del modelado en 3D de los cases para alojar el arduino nano y el sensor fotoeléctrico, asegurándonos que las dimensiones y la estructura del diseño permiten la correcta fijación gracias a los agujeros de soporte para tornillos, exportamos e integramos a SimScale los modelos gracias a la plataforma Onshape, preparados para llevar a cabo las simulaciones de esfuerzos estáticos, usando como material principal PLA, según fue establecido en este documento.</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7a99e1f8-a043-4c2a-ad1a-4d7b639e1d93" width="500" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/f37e50c8-d6f2-498c-b6a1-4c28c2d77d77" width="500" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/f775fe8e-586b-4d27-a14d-38395bb6c92b" width="500" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/1c781880-6a27-4bc8-b460-46477db66676" width="500" style="margin: auto;">
+</p>
+
 <p align="justify">Analizamos los mapas de tensiones y deformaciones generadas por la fuerza aplicada en una de las caras del sistema, con esto logramos identificar las zonas críticas del diseño. Los mapas de color obtenidos destacan las concentraciones de fuerzas, que evaluamos para determinar si el case era capaz de soportar las condiciones que se presenten en la ubicación que elegimos para instalar el maletín. Simulamos una carga de viento representativa con velocidades de hasta 90 km/h.</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/267f3c2a-9574-40e7-bdc3-c60e9e6842d1" width="500" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/242b988d-a4f9-492d-9fe1-7e6bc8d156ed" width="500" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/7decb55b-5954-4a99-b8d0-869f96b51f01" width="500" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/fc880566-a384-4d93-96c0-5c18e9fd91a8" width="500" style="margin: auto;">
+</p>
 
 <p align="justify">Las deformaciones fueron menores a 0.5 mm, confirmando que el modelo actual del caso no requiere modificaciones adicionales en términos de resistencia mecánica, listo para su implementación en el proyecto, siempre que las condiciones de operación no superen las especificadas en esta simulación.</p>
 
