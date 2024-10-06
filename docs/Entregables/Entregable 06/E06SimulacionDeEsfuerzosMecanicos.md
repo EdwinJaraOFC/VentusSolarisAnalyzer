@@ -107,9 +107,9 @@
 <p align="justify">Con las fuerzas y las restricciones aplicadas, procedimos a lanzar las simulaciones. Este proceso nos permitió calcular cómo las fuerzas aplicadas afectarían las distintas áreas del case, generando mapas de tensiones y deformaciones.</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/18526f2a-f5db-409c-b7b9-801138abd9a9" width="535" style="margin: auto;">
-  <img src="https://github.com/user-attachments/assets/0d20e6df-a88d-4710-96d2-e6fdfe214687" width="535" style="margin: auto;">
-  <img src="https://github.com/user-attachments/assets/3b4505ec-2715-4199-a8fe-e26d5c3ec9a8" width="535" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/18526f2a-f5db-409c-b7b9-801138abd9a9" width="333" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/0d20e6df-a88d-4710-96d2-e6fdfe214687" width="333" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/3b4505ec-2715-4199-a8fe-e26d5c3ec9a8" width="333" style="margin: auto;">
 </p>
 
 ## Resultados
