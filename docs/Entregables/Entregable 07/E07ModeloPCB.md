@@ -16,38 +16,46 @@
 ### 1. Arduino Nano (Microcontrolador Principal)
 #### Pines importantes
 - **5V**: Proporciona alimentación a los sensores y la pantalla I2C.
-- **Pines ADC**: Utilizados para la lectura de señales analógicas del sensor de radiación solar y del anemómetro.
+- **GND**: Conecta a tierra todos los componentes.
+- **A0**: Entrada analógica conectada a la salida del **sensor de radiación solar SUF268J001**.
+- **A1**: Entrada analógica conectada al **anemómetro casero (Motor RF-500TB-14415)** para medir la velocidad del viento.
+- **A4**: Conecta al pin **SDA** de la **pantalla I2C** para la comunicación serial.
+- **A5**: Conecta al pin **SCL** de la **pantalla I2C** para la comunicación serial.
 
 ### 2. Sensor de Radiación Solar SUF268J001
 - **Función**: Medir la intensidad de la radiación solar.
 
 #### Conexiones
-- El pin de alimentación del sensor (**VCC**) se conecta al pin **5V** del Arduino Nano.
-- El pin de tierra del sensor (**GND**) se conecta al pin **GND** (tierra) del Arduino Nano.
-- La señal de salida del sensor se conecta a uno de los pines analógicos (**A0**) del Arduino Nano.
+- **Pin 1 (VCC)**: Conecta al **pin 5V** del Arduino Nano.
+- **Pin 2 (Señal)**: Conectado a una resistencia de 1 kΩ (R1), y de ahí a la **entrada analógica A0** del Arduino Nano.
+- **Resistencia R2 (100 Ω)**: Conectada en paralelo entre el nodo A0 y un capacitor de 100 nF (C1) que va a GND.
+- **GND**: Conecta directamente a tierra (GND) del Arduino Nano.
 
 ### 3. Anemómetro Casero (Motor RF-500TB-14415)
 - **Función**: Mide la velocidad del viento en función de las revoluciones del motor.
 
 #### Conexiones
-- El pin de alimentación del motor (**VCC**) se conecta al pin **5V** del Arduino Nano.
-- El pin de tierra del motor (**GND**) se conecta al pin **GND** del Arduino Nano.
-- La señal de salida del motor se conecta a un pin analógico (**A1**) del Arduino Nano.
+- **VCC**: Conecta al pin **5V** del Arduino Nano.
+- **GND**: Conecta al pin **GND** del Arduino Nano.
+- **Señal**: Conectado a la **entrada A1** del Arduino Nano.
 
 ### 4. Pantalla I2C
 - **Función**: Muestra los valores de radiación solar y velocidad del viento en tiempo real.
 
 #### Conexiones
-- El pin de alimentación de la pantalla (**VCC**) se conecta al pin **5V** del Arduino Nano.
-- El pin de tierra de la pantalla (**GND**) se conecta al pin **GND** del Arduino Nano.
-- El pin de datos de la pantalla (**SDA**) se conecta al pin **A4** del Arduino Nano para la comunicación I2C.
-- El pin de reloj de la pantalla (**SCL**) se conecta al pin **A5** del Arduino Nano para la comunicación I2C.
+- **VCC**: Conecta al pin **5V** del Arduino Nano.
+- **GND**: Conecta al pin **GND** del Arduino Nano.
+- **SDA**: Conectado al pin **A4** del Arduino Nano.
+- **SCL**: Conectado al pin **A5** del Arduino Nano.
 
 ### 5. Conectores Molex
 - **Función**: Facilitan la conexión modular de los sensores y la pantalla.
 
 #### Conexiones
-- Cada conector Molex tiene tres pines: alimentación (**VCC**), tierra (**GND**), y señal de salida. Estos se conectan entre los sensores/pantalla y los pines correspondientes del Arduino Nano.
+- Cada conector Molex tiene tres pines: alimentación (**VCC**), tierra (**GND**), y señal de salida. Estos se conectan entre los sensores/pantalla y los pines correspondientes del Arduino Nano:
+  - **Sensor SUF268J001**: Conector Molex de 2 pines (VCC y Señal).
+  - **Anemómetro (Motor)**: Conector Molex de 3 pines (VCC, GND y Señal).
+  - **Pantalla I2C**: Conector Molex de 4 pines (VCC, GND, SDA, SCL).
 
 ### 6. Batería Portátil
 - **Función**: Proporciona alimentación al sistema a través del pin **Vin** del Arduino Nano, regulando el voltaje a **5V** para todos los componentes.
@@ -99,4 +107,4 @@ Se utilizó el ruteo automático en EasyEDA, con dos capas:
 
 ## Conclusión
 
-<p align="justify">Este sistema portátil no solo es una solución práctica para la medición precisa de la velocidad del viento y la radiación solar, sino que también ofrece un enfoque eficiente y modular para evaluar la viabilidad de proyectos de energía renovable. Al ser fácil de transportar y configurar, es ideal para estudios en campo que requieran una rápida instalación y operación. Esto lo convierte en una herramienta esencial para ingenieros y profesionales que buscan optimizar la toma de decisiones sobre la instalación de aerogeneradores y paneles solares en distintas zonas.</p>
+<p align="justify">Este sistema portátil no solo es una solución práctica para la medición precisa de la velocidad del viento y la radiación solar, sino que también ofrece un enfoque eficiente y modular para evaluar la viabilidad de proyectos de energía renovable. Al ser fácil de transportar y configurar, es ideal para estudios en campo que requieran una rápida instalación y operación. Esto lo convierte en una herramienta esencial para ingenieros y profesionales que buscan optimizar la toma de decisiones sobre la instalación de aerogeneradores y paneles solares en distintas zonas
