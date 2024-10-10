@@ -9,10 +9,12 @@
 
 ## Imagen del PCB
 
-
-![image](https://github.com/user-attachments/assets/30182c21-5197-4e82-b07f-862d4ccb4049)
-![image](https://github.com/user-attachments/assets/26c5bb51-4184-41ec-8af5-9c248778529e)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/30182c21-5197-4e82-b07f-862d4ccb4049" width="500" style="margin: auto;">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/26c5bb51-4184-41ec-8af5-9c248778529e" width="500" style="margin: auto;">
+</p>
 
 ## Componentes Utilizados
 
