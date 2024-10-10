@@ -1,4 +1,4 @@
-<p align="left">
+c<p align="left">
   <img src="https://github.com/user-attachments/assets/7d175927-ada3-49d1-9feb-c539e3595c73" width="200">
   <h1 align="center">Entregable 07: Modelo PCB</h1>
 </p>
@@ -9,7 +9,10 @@
 
 ## Imagen del PCB
 
-[Insertar imagen del diseño del PCB aquí]
+
+![image](https://github.com/user-attachments/assets/30182c21-5197-4e82-b07f-862d4ccb4049)
+![image](https://github.com/user-attachments/assets/26c5bb51-4184-41ec-8af5-9c248778529e)
+
 
 ## Componentes Utilizados
 
@@ -102,6 +105,9 @@ Se utilizó el ruteo automático en EasyEDA, con dos capas:
 <p align="justify">El diseño del PCB fue optimizado para ser compacto y portátil, asegurando que sea fácil de transportar y utilizar en campo.</p>
 
 ## Resultado Esperado
+![image](https://github.com/user-attachments/assets/9bbae37b-7598-4bc8-be18-5dedee6ca94e)
+![image](https://github.com/user-attachments/assets/2bc65acb-ffb0-460c-b054-a89afdf2ce23)
+![image](https://github.com/user-attachments/assets/da055e7b-9211-4053-995a-e88d1b5a9307)
 
 <p align="justify">El diseño del PCB permitirá la lectura precisa y continua de la velocidad del viento y la radiación solar. Los datos se mostrarán en la pantalla I2C en tiempo real, mientras que los conectores Molex permitirán la fácil conexión y desconexión de los sensores para mantenimiento o ajustes. El sistema es portátil, eficiente en consumo de energía y adecuado para evaluar la viabilidad de proyectos de energía renovable en diversas ubicaciones.</p>
 
