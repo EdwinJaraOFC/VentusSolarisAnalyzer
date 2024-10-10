@@ -7,7 +7,7 @@
 
 <p align="justify">Este informe presenta el diseño y los componentes clave de un sistema portátil diseñado para medir la velocidad del viento y la radiación solar. El objetivo de este proyecto es evaluar la viabilidad de instalar aerogeneradores y paneles solares en áreas específicas, proporcionando datos precisos y en tiempo real. El sistema está basado en un microcontrolador Arduino Nano, que se conecta a un sensor SUF268J001 para medir la radiación solar y a un anemómetro casero, construido a partir de un motor RF-500TB-14415, para medir la velocidad del viento. Los datos se visualizan en una pantalla I2C, y todo el sistema es alimentado por una batería portátil, lo que lo hace ideal para ser utilizado en campo. Además, el uso de conectores Molex facilita la conexión modular de los componentes, permitiendo un mantenimiento y ajustes sencillos.</p>
 
-## Imagen del PCB
+## Esquemático Electrónico
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/30182c21-5197-4e82-b07f-862d4ccb4049" width="700" style="margin: auto;">
@@ -107,9 +107,16 @@ Se utilizó el ruteo automático en EasyEDA, con dos capas:
 <p align="justify">El diseño del PCB fue optimizado para ser compacto y portátil, asegurando que sea fácil de transportar y utilizar en campo.</p>
 
 ## Resultado Esperado
-![image](https://github.com/user-attachments/assets/9bbae37b-7598-4bc8-be18-5dedee6ca94e)
-![image](https://github.com/user-attachments/assets/2bc65acb-ffb0-460c-b054-a89afdf2ce23)
-![image](https://github.com/user-attachments/assets/da055e7b-9211-4053-995a-e88d1b5a9307)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9bbae37b-7598-4bc8-be18-5dedee6ca94e" width="700" style="margin: auto;">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2bc65acb-ffb0-460c-b054-a89afdf2ce23" width="700" style="margin: auto;">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/da055e7b-9211-4053-995a-e88d1b5a9307" width="700" style="margin: auto;">
+</p>
 
 <p align="justify">El diseño del PCB permitirá la lectura precisa y continua de la velocidad del viento y la radiación solar. Los datos se mostrarán en la pantalla I2C en tiempo real, mientras que los conectores Molex permitirán la fácil conexión y desconexión de los sensores para mantenimiento o ajustes. El sistema es portátil, eficiente en consumo de energía y adecuado para evaluar la viabilidad de proyectos de energía renovable en diversas ubicaciones.</p>
 
