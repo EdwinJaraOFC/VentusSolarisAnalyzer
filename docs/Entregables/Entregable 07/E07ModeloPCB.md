@@ -5,7 +5,7 @@
 
 ## Introducción
 
-<p align="justify">Este informe detalla el diseño y componentes del PCB para un sistema portátil que mide la velocidad del viento y la radiación solar. El sistema está basado en un **Arduino Nano** como microcontrolador principal, el cual se conecta a un **sensor SUF268J001** para medir la radiación solar y a un anemómetro casero construido con un motor **RF-500TB-14415** para medir la velocidad del viento. La visualización de los datos se realiza a través de una pantalla **I2C**, y la alimentación del sistema proviene de una batería portátil. Los componentes no están conectados directamente a la PCB, sino mediante conectores **Molex** para facilitar la modularidad y el mantenimiento del sistema.</p>
+<p align="justify">Este informe detalla el diseño y componentes del PCB para un sistema portátil que mide la velocidad del viento y la radiación solar. El sistema está basado en un <strong>Arduino Nano</strong> como microcontrolador principal, el cual se conecta a un <strong>sensor SUF268J001</strong> para medir la radiación solar y a un anemómetro casero construido con un motor <strong>RF-500TB-14415</strong> para medir la velocidad del viento. La visualización de los datos se realiza a través de una pantalla <strong>I2C</strong>, y la alimentación del sistema proviene de una batería portátil. Los componentes no están conectados directamente a la PCB, sino mediante conectores <strong>Molex</strong> para facilitar la modularidad y el mantenimiento del sistema.</p>
 
 ## Imagen del PCB
 
@@ -52,29 +52,29 @@
 ## Proceso de Diseño del PCB
 
 ### 1. Esquemático
-<p align="justify">Se diseñó el esquema eléctrico en **EasyEDA**, conectando los componentes mediante conectores Molex para una fácil desconexión y mantenimiento del sistema.</p>
+<p align="justify">Se diseñó el esquema eléctrico en <strong>EasyEDA</strong>, conectando los componentes mediante conectores Molex para una fácil desconexión y mantenimiento del sistema.</p>
 
 ### 2. Conversión a PCB
 <p align="justify">Se convirtió el esquema en un diseño de PCB, optimizando la disposición de los componentes y conectores para reducir la longitud de las pistas y maximizar el espacio disponible.</p>
 
 ### 3. Ruteo Automático
-Se utilizó el ruteo automático en **EasyEDA**, con dos capas:
+Se utilizó el ruteo automático en <strong>EasyEDA</strong>, con dos capas:
 - **Capa superior (Rojo)**: Para las conexiones principales de datos y alimentación.
 - **Capa inferior (Azul)**: Para evitar cruces de pistas y mantener el diseño compacto.
 
 ## Flujo de Comunicación entre los Componentes
 
 ### 1.  Alimentación del Sistema
-<p align="justify">La batería portátil alimenta el sistema a través del pin **Vin** del Arduino Nano, regulando el voltaje a **5V**.</p>
+<p align="justify">La batería portátil alimenta el sistema a través del pin <strong>Vin</strong> del Arduino Nano, regulando el voltaje a <strong>5V</strong>.</p>
 
 ### 2. Lectura del Sensor de Radiación Solar (SUF268J001)
-<p align="justify">El sensor envía su señal analógica al pin **A0** del Arduino Nano, donde se procesa para medir la radiación solar.</p>
+<p align="justify">El sensor envía su señal analógica al pin <strong>A0</strong> del Arduino Nano, donde se procesa para medir la radiación solar.</p>
 
 ### 3. Medición de Velocidad del Viento (Anemómetro Casero)
-<p align="justify">El motor **RF-500TB-14415** genera pulsos que son leídos por el pin **A1** del Arduino Nano, permitiendo calcular la velocidad del viento mediante cálculos basados en las revoluciones del motor.</p>
+<p align="justify">El motor <strong>RF-500TB-14415</strong> genera pulsos que son leídos por el pin <strong>A1</strong> del Arduino Nano, permitiendo calcular la velocidad del viento mediante cálculos basados en las revoluciones del motor.</p>
 
 ### 4. Visualización en Pantalla I2C
-<p align="justify">Los datos procesados de radiación solar y velocidad del viento se envían a la pantalla I2C a través de los pines **A4** (SDA) y **A5** (SCL) del Arduino Nano.</p>
+<p align="justify">Los datos procesados de radiación solar y velocidad del viento se envían a la pantalla I2C a través de los pines <strong>A4</strong> (SDA) y <strong>A5</strong> (SCL) del Arduino Nano.</p>
 
 ### 5. Conexión Modular a través de Molex
 <p align="justify">Los conectores Molex permiten la conexión y desconexión rápida de los sensores y la pantalla, facilitando el mantenimiento del sistema.</p>
