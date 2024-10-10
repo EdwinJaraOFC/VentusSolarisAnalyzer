@@ -5,7 +5,7 @@
 
 ## Introducción
 
-<p align="justify">Este informe detalla el diseño y componentes del PCB para un sistema portátil que mide la velocidad del viento y la radiación solar. El sistema está basado en un <strong>Arduino Nano</strong> como microcontrolador principal, el cual se conecta a un <strong>sensor SUF268J001</strong> para medir la radiación solar y a un anemómetro casero construido con un motor <strong>RF-500TB-14415</strong> para medir la velocidad del viento. La visualización de los datos se realiza a través de una pantalla <strong>I2C</strong>, y la alimentación del sistema proviene de una batería portátil. Los componentes no están conectados directamente a la PCB, sino mediante conectores <strong>Molex</strong> para facilitar la modularidad y el mantenimiento del sistema.</p>
+<p align="justify">Este informe presenta el diseño y los componentes clave de un sistema portátil diseñado para medir la velocidad del viento y la radiación solar. El objetivo de este proyecto es evaluar la viabilidad de instalar aerogeneradores y paneles solares en áreas específicas, proporcionando datos precisos y en tiempo real. El sistema está basado en un microcontrolador Arduino Nano, que se conecta a un sensor SUF268J001 para medir la radiación solar y a un anemómetro casero, construido a partir de un motor RF-500TB-14415, para medir la velocidad del viento. Los datos se visualizan en una pantalla I2C, y todo el sistema es alimentado por una batería portátil, lo que lo hace ideal para ser utilizado en campo. Además, el uso de conectores Molex facilita la conexión modular de los componentes, permitiendo un mantenimiento y ajustes sencillos.</p>
 
 ## Imagen del PCB
 
@@ -52,32 +52,32 @@
 ## Proceso de Diseño del PCB
 
 ### 1. Esquemático
-<p align="justify">Se diseñó el esquema eléctrico en <strong>EasyEDA</strong>, conectando los componentes mediante conectores Molex para una fácil desconexión y mantenimiento del sistema.</p>
+<p align="justify">Se diseñó el esquema eléctrico utilizando EasyEDA, asegurando que todos los componentes estuvieran conectados de manera eficiente y modular mediante conectores Molex. La disposición de los componentes en la PCB fue optimizada para reducir la longitud de las pistas y maximizar el espacio, manteniendo las conexiones limpias y bien organizadas. Durante el ruteo automático, se prestó especial atención a evitar cruces entre las pistas y asegurar que la señal de los sensores no sufriera interferencias, lo cual se logró dividiendo las conexiones entre la capa superior (rojo) y la capa inferior (azul).</p>
 
 ### 2. Conversión a PCB
 <p align="justify">Se convirtió el esquema en un diseño de PCB, optimizando la disposición de los componentes y conectores para reducir la longitud de las pistas y maximizar el espacio disponible.</p>
 
 ### 3. Ruteo Automático
-Se utilizó el ruteo automático en <strong>EasyEDA</strong>, con dos capas:
+Se utilizó el ruteo automático en EasyEDA, con dos capas:
 - **Capa superior (Rojo)**: Para las conexiones principales de datos y alimentación.
 - **Capa inferior (Azul)**: Para evitar cruces de pistas y mantener el diseño compacto.
 
 ## Flujo de Comunicación entre los Componentes
 
-### 1.  Alimentación del Sistema
-<p align="justify">La batería portátil alimenta el sistema a través del pin <strong>Vin</strong> del Arduino Nano, regulando el voltaje a <strong>5V</strong>.</p>
+### 1. Alimentación del Sistema
+<p align="justify">La batería portátil suministra energía al sistema a través del pin Vin del Arduino Nano, el cual regula el voltaje a 5V. Esta alimentación es compartida con los sensores y la pantalla I2C mediante los conectores Molex.</p>
 
 ### 2. Lectura del Sensor de Radiación Solar (SUF268J001)
-<p align="justify">El sensor envía su señal analógica al pin <strong>A0</strong> del Arduino Nano, donde se procesa para medir la radiación solar.</p>
+<p align="justify">El sensor de radiación solar se alimenta a través del pin 5V del Arduino Nano. La señal de radiación solar se transmite desde el sensor hacia el pin A0 del Arduino Nano. Esta señal analógica es convertida en un valor digital por el microcontrolador para su procesamiento.</p>
 
 ### 3. Medición de Velocidad del Viento (Anemómetro Casero)
-<p align="justify">El motor <strong>RF-500TB-14415</strong> genera pulsos que son leídos por el pin <strong>A1</strong> del Arduino Nano, permitiendo calcular la velocidad del viento mediante cálculos basados en las revoluciones del motor.</p>
+<p align="justify">El anemómetro casero, basado en el motor RF-500TB-14415, envía pulsos analógicos al pin A1 del Arduino Nano. Estos pulsos, generados por las revoluciones del motor, son interpretados por el Arduino Nano y convertidos en datos de velocidad de viento a través de cálculos predefinidos.</p>
 
 ### 4. Visualización en Pantalla I2C
-<p align="justify">Los datos procesados de radiación solar y velocidad del viento se envían a la pantalla I2C a través de los pines <strong>A4</strong> (SDA) y <strong>A5</strong> (SCL) del Arduino Nano.</p>
+<p align="justify">La pantalla I2C recibe los valores procesados de la radiación solar y la velocidad del viento mediante la comunicación I2C, utilizando los pines A4 (SDA) y A5 (SCL) del Arduino Nano. Los datos se muestran en tiempo real en la pantalla, permitiendo una lectura continua de los parámetros monitoreados.</p>
 
 ### 5. Conexión Modular a través de Molex
-<p align="justify">Los conectores Molex permiten la conexión y desconexión rápida de los sensores y la pantalla, facilitando el mantenimiento del sistema.</p>
+<p align="justify">Todos los sensores y la pantalla están conectados mediante conectores Molex. Esto permite una desconexión rápida y sencilla de los componentes, facilitando el mantenimiento y el reemplazo sin afectar el funcionamiento del sistema.</p>
 
 ## Consideraciones de Diseño
 
@@ -85,15 +85,15 @@ Se utilizó el ruteo automático en <strong>EasyEDA</strong>, con dos capas:
 <p align="justify">Se utilizaron conectores Molex para permitir una fácil conexión y desconexión de los sensores y la pantalla.</p>
 
 ### 2. Eficiencia Energética
-<p align="justify">Todos los componentes fueron seleccionados por su bajo consumo de energía, lo que optimiza la duración de la batería portátil.</p>
+<p align="justify">Se seleccionaron componentes de bajo consumo para maximizar la duración de la batería portátil.</p>
 
 ### 3. Diseño Compacto
-<p align="justify">El diseño del PCB fue optimizado para que sea fácil de transportar y utilizar en diferentes ubicaciones.</p>
+<p align="justify">El diseño del PCB fue optimizado para ser compacto y portátil, asegurando que sea fácil de transportar y utilizar en campo.</p>
 
 ## Resultado Esperado
 
-<p align="justify">El diseño del PCB asegura la lectura precisa y continua de la radiación solar y la velocidad del viento, con los datos mostrados en tiempo real en la pantalla I2C. Gracias al uso de conectores Molex, el sistema es altamente modular, lo que facilita la desconexión rápida de los componentes para ajustes o reparaciones. El sistema está optimizado para funcionar de manera eficiente con una batería portátil, lo que lo convierte en una herramienta práctica y fácil de usar para estudios de viabilidad de energía renovable.</p>
+<p align="justify">El diseño del PCB permitirá la lectura precisa y continua de la velocidad del viento y la radiación solar. Los datos se mostrarán en la pantalla I2C en tiempo real, mientras que los conectores Molex permitirán la fácil conexión y desconexión de los sensores para mantenimiento o ajustes. El sistema es portátil, eficiente en consumo de energía y adecuado para evaluar la viabilidad de proyectos de energía renovable en diversas ubicaciones.</p>
 
 ## Conclusión
 
-<p align="justify">El sistema portátil para medir la velocidad del viento y la radiación solar está diseñado para proporcionar datos precisos y en tiempo real, facilitando la evaluación de proyectos de energía renovable. El uso de conectores Molex y un diseño optimizado garantiza la modularidad, eficiencia y facilidad de uso del sistema en campo.</p>
+<p align="justify">Este sistema portátil no solo es una solución práctica para la medición precisa de la velocidad del viento y la radiación solar, sino que también ofrece un enfoque eficiente y modular para evaluar la viabilidad de proyectos de energía renovable. Al ser fácil de transportar y configurar, es ideal para estudios en campo que requieran una rápida instalación y operación. Esto lo convierte en una herramienta esencial para ingenieros y profesionales que buscan optimizar la toma de decisiones sobre la instalación de aerogeneradores y paneles solares en distintas zonas.</p>
