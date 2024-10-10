@@ -19,8 +19,8 @@
 ## Modelo PCB
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9bbae37b-7598-4bc8-be18-5dedee6ca94e" width="495" style="margin: auto;">
-  <img src="https://github.com/user-attachments/assets/2bc65acb-ffb0-460c-b054-a89afdf2ce23" width="505" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/9bbae37b-7598-4bc8-be18-5dedee6ca94e" width="492" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/2bc65acb-ffb0-460c-b054-a89afdf2ce23" width="508" style="margin: auto;">
 </p>
 
 ## Componentes Utilizados
