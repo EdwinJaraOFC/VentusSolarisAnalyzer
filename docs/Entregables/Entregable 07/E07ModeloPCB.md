@@ -116,13 +116,6 @@ Se utilizó el ruteo automático en EasyEDA, con dos capas:
 
 ## Resultado Esperado
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9bbae37b-7598-4bc8-be18-5dedee6ca94e" width="700" style="margin: auto;">
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2bc65acb-ffb0-460c-b054-a89afdf2ce23" width="700" style="margin: auto;">
-</p>
-
 <p align="justify">El diseño del PCB permitirá la lectura precisa y continua de la velocidad del viento y la radiación solar. Los datos se mostrarán en la pantalla I2C en tiempo real, mientras que los conectores Molex permitirán la fácil conexión y desconexión de los sensores para mantenimiento o ajustes. El sistema es portátil, eficiente en consumo de energía y adecuado para evaluar la viabilidad de proyectos de energía renovable en diversas ubicaciones.</p>
 
 ## Conclusión
