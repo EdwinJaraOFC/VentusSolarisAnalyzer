@@ -114,10 +114,6 @@ Se utilizó el ruteo automático en EasyEDA, con dos capas:
 ### 3. Diseño Compacto
 <p align="justify">El diseño del PCB fue optimizado para ser compacto y portátil, asegurando que sea fácil de transportar y utilizar en campo.</p>
 
-## Resultado Esperado
-
-<p align="justify">El diseño del PCB permitirá la lectura precisa y continua de la velocidad del viento y la radiación solar. Los datos se mostrarán en la pantalla I2C en tiempo real, mientras que los conectores Molex permitirán la fácil conexión y desconexión de los sensores para mantenimiento o ajustes. El sistema es portátil, eficiente en consumo de energía y adecuado para evaluar la viabilidad de proyectos de energía renovable en diversas ubicaciones.</p>
-
 ## Conclusión
 
 <p align="justify">Este sistema portátil no solo es una solución práctica para la medición precisa de la velocidad del viento y la radiación solar, sino que también ofrece un enfoque eficiente y modular para evaluar la viabilidad de proyectos de energía renovable. Al ser fácil de transportar y configurar, es ideal para estudios en campo que requieran una rápida instalación y operación. Esto lo convierte en una herramienta esencial para ingenieros y profesionales que buscan optimizar la toma de decisiones sobre la instalación de aerogeneradores y paneles solares en distintas zonas
