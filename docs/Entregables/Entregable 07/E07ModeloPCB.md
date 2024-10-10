@@ -15,36 +15,39 @@
 
 ### 1. Arduino Nano (Microcontrolador Principal)
 #### Pines importantes
-- **5V**: Alimenta a los sensores y a la pantalla I2C.
-- **Pines ADC**: Utilizados para la lectura de señales analógicas del sensor de radiación solar y el anemómetro.
+- **5V**: Proporciona alimentación a los sensores y la pantalla I2C.
+- **Pines ADC**: Utilizados para la lectura de señales analógicas del sensor de radiación solar y del anemómetro.
 
 ### 2. Sensor de Radiación Solar SUF268J001
 - **Función**: Medir la intensidad de la radiación solar.
 
 #### Conexiones
-- **VCC** al pin **5V** del Arduino Nano.
-- **GND** al pin **GND**.
-- **Señal** a un pin **ADC** (A0).
+- El pin de alimentación del sensor (**VCC**) se conecta al pin **5V** del Arduino Nano.
+- El pin de tierra del sensor (**GND**) se conecta al pin **GND** (tierra) del Arduino Nano.
+- La señal de salida del sensor se conecta a uno de los pines analógicos (**A0**) del Arduino Nano.
 
 ### 3. Anemómetro Casero (Motor RF-500TB-14415)
 - **Función**: Mide la velocidad del viento en función de las revoluciones del motor.
 
 #### Conexiones
-- **VCC** al pin **5V** del Arduino Nano.
-- **GND** al pin **GND**.
-- **Señal** a un pin **ADC** (A1).
+- El pin de alimentación del motor (**VCC**) se conecta al pin **5V** del Arduino Nano.
+- El pin de tierra del motor (**GND**) se conecta al pin **GND** del Arduino Nano.
+- La señal de salida del motor se conecta a un pin analógico (**A1**) del Arduino Nano.
 
 ### 4. Pantalla I2C
 - **Función**: Muestra los valores de radiación solar y velocidad del viento en tiempo real.
 
 #### Conexiones
-- **VCC** al pin **5V**.
-- **GND** al **GND**.
-- **SDA** al pin A4 y **SCL** al pin A5 para la comunicación I2C.
+- El pin de alimentación de la pantalla (**VCC**) se conecta al pin **5V** del Arduino Nano.
+- El pin de tierra de la pantalla (**GND**) se conecta al pin **GND** del Arduino Nano.
+- El pin de datos de la pantalla (**SDA**) se conecta al pin **A4** del Arduino Nano para la comunicación I2C.
+- El pin de reloj de la pantalla (**SCL**) se conecta al pin **A5** del Arduino Nano para la comunicación I2C.
 
 ### 5. Conectores Molex
-- **Función**: Permiten una conexión modular para los sensores y la pantalla.
-- **Conexiones**: Utilizados para conectar **VCC**, **GND** y la señal de cada sensor al PCB.
+- **Función**: Facilitan la conexión modular de los sensores y la pantalla.
+
+#### Conexiones
+- Cada conector Molex tiene tres pines: alimentación (**VCC**), tierra (**GND**), y señal de salida. Estos se conectan entre los sensores/pantalla y los pines correspondientes del Arduino Nano.
 
 ### 6. Batería Portátil
 - **Función**: Proporciona alimentación al sistema a través del pin **Vin** del Arduino Nano, regulando el voltaje a **5V** para todos los componentes.
