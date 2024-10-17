@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="200">
+  <img src="https://github.com/user-attachments/assets/2cae9b13-d1de-4a5a-a827-643818c98091" width="200">
   <h1 align="center">Entregable 04: Avance de Modelado 3D</h1>
 </p>
 
