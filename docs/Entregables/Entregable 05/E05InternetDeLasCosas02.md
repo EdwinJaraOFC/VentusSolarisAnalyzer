@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/7d175927-ada3-49d1-9feb-c539e3595c73" width="200">
+  <img src="https://github.com/user-attachments/assets/2cae9b13-d1de-4a5a-a827-643818c98091" width="200">
   <h1 align="center">Entregable 05: Internet de las Cosas (IoT) - ESP32</h1>
 </p>
 
