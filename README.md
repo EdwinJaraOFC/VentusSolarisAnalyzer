@@ -98,9 +98,9 @@ En este proyecto, vamos a medir uno de los parámetros qué es  la irradiancia s
 
 Especificaciones técnicas:
 
-- Fuente de luz:Luz del sol
+- Fuente de luz: Luz del sol
 - Método de conexión: 2-Pin
-- Configuración de salida:Fotodiodo
+- Configuración de salida: Fotodiodo
 - Temperatura de trabajo mínima: -30 C
 - Temperatura de trabajo máxima: +80 C
 - Características: Tiempo de respuesta rápido
