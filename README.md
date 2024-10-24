@@ -123,4 +123,7 @@ Especificaciones técnicas:
 - Interfaz digital: SPI
 - Potencia de transmisión: +20 dBm
 
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/02ea2a26-bd7e-4bad-927e-fc2dd4c1b610" width="200">
+  
 
