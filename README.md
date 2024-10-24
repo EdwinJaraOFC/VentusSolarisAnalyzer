@@ -96,7 +96,7 @@ En este proyecto, se va a medir la velocidad del viento en (m/s) mediante un sis
 
 En este proyecto, vamos a medir uno de los parámetros qué es  la irradiancia solar, a través del sensor de 527-SUF268J00, el cual mide la irradiación en watts por metro cuadrado (W/m²). Este sensor funciona mediante la captura de luz solar que incide sobre un material semiconductor, comúnmente silicio. La energía de los fotones de la luz excita los electrones en el semiconductor, creando pares de electrones y huecos. Al separarse, estos generan una corriente eléctrica; cuanto mayor es la luz recibida, mayor es la corriente producida. Esta corriente se convierte en un voltaje que representa la cantidad de luz que está recibiendo el sensor. Para garantizar que las lecturas sean precisas. Además, cuenta con recubrimientos protectores que resguardan su funcionamiento frente a la humedad y la radiación UV, asegurando así su durabilidad y eficacia en diversas condiciones ambientales.
 
-Especificaciones técnicas:
+Especificaciones técnicas: 
 
 - Fuente de luz: Luz del sol
 - Método de conexión: 2-Pin
