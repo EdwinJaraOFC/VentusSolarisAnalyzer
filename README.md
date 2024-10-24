@@ -76,3 +76,10 @@ Con VentusSolaris Analyzer, se espera lograr:
 ---
 
 <p align="justify">VentusSolaris Analyzer representa un paso adelante hacia la accesibilidad y democratización de las energías renovables. Al hacer uso de tecnologías accesibles y un enfoque modular, nuestro objetivo es contribuir no solo al ámbito académico, sino también al desarrollo sostenible a nivel global.</p>
+
+
+## IDENTIFICACION DEL TRL DEL PROYECTO 
+
+En este proyecto, se va a medir la velocidad del viento EN (M/S) mediante un sistema basado en un anemómetro conectado a un motor. El funcionamiento del sistema se activa cuando el viento hace girar las hélices del anemómetro. Estas hélices, al girar, no solo registran el movimiento del viento, sino que también generan electricidad al cortar las líneas del campo magnético en el motor. Este proceso, a través del motor RF-500TB-14415, nos permite generar una corriente eléctrica que se relaciona directamente con la velocidad del viento, facilitando así una medición precisa a partir del voltaje generado.
+
+
