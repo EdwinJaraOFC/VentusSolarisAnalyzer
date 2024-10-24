@@ -105,6 +105,10 @@ Especificaciones técnicas:
 - Temperatura de trabajo máxima: +80 C
 - Características: Tiempo de respuesta rápido
 
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/52cc6b66-f9fb-439a-8800-4a5e504d36d9" width="400">
+
+
 #### Sensor de Ondas de Radio:
 
 El funcionamiento del sensor de ondas de radio, es fundamental para la recepción de señales que viajan a través del aire. Este sensor utiliza una antena para captar las ondas de radio, que son oscilaciones electromagnéticas. Cuando estas ondas llegan a la antena, inducen el movimiento de electrones en el material conductor de la antena, lo que genera pequeñas corrientes eléctricas. Estas corrientes son directamente proporcionales a la energía de las ondas de radio que están siendo recibidas. La corriente generada se convierte en una señal eléctrica que representa la información contenida en las ondas, como voz, música o datos digitales. Esta señal eléctrica se amplifica para mejorar su calidad y se procesa mediante circuitos electrónicos que extraen la información deseada.
