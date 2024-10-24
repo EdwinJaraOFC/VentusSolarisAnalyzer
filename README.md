@@ -87,12 +87,36 @@ Con VentusSolaris Analyzer, se espera lograr:
 
 En este proyecto, se va a medir la velocidad del viento en (m/s) mediante un sistema basado en un anemómetro conectado a un motor. El funcionamiento del sistema se activa cuando el viento hace girar las hélices del anemómetro. Estas hélices, al girar, no solo registran el movimiento del viento, sino que también generan electricidad al cortar las líneas del campo magnético en el motor. Este proceso, a través del motor DC nos permite generar una corriente eléctrica que se relaciona directamente con la velocidad del viento, facilitando así una medición precisa a partir del voltaje generado.
 
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/3f31eb08-3cad-4a52-a900-b60ca799d16d" width="200">
+  
+
 
 #### Sensor de radiación:
 
 En este proyecto, vamos a medir uno de los parámetros qué es  la irradiancia solar, a través del sensor de 527-SUF268J00, el cual mide la irradiación en watts por metro cuadrado (W/m²). Este sensor funciona mediante la captura de luz solar que incide sobre un material semiconductor, comúnmente silicio. La energía de los fotones de la luz excita los electrones en el semiconductor, creando pares de electrones y huecos. Al separarse, estos generan una corriente eléctrica; cuanto mayor es la luz recibida, mayor es la corriente producida. Esta corriente se convierte en un voltaje que representa la cantidad de luz que está recibiendo el sensor. Para garantizar que las lecturas sean precisas. Además, cuenta con recubrimientos protectores que resguardan su funcionamiento frente a la humedad y la radiación UV, asegurando así su durabilidad y eficacia en diversas condiciones ambientales.
 
+Especificaciones técnicas:
+
+- Fuente de luz:Luz del sol
+- Método de conexión: 2-Pin
+- Configuración de salida:Fotodiodo
+- Temperatura de trabajo mínima: -30 C
+- Temperatura de trabajo máxima: +80 C
+- Características: Tiempo de respuesta rápido
+
 #### Sensor de Ondas de Radio:
 
 El funcionamiento del sensor de ondas de radio, es fundamental para la recepción de señales que viajan a través del aire. Este sensor utiliza una antena para captar las ondas de radio, que son oscilaciones electromagnéticas. Cuando estas ondas llegan a la antena, inducen el movimiento de electrones en el material conductor de la antena, lo que genera pequeñas corrientes eléctricas. Estas corrientes son directamente proporcionales a la energía de las ondas de radio que están siendo recibidas. La corriente generada se convierte en una señal eléctrica que representa la información contenida en las ondas, como voz, música o datos digitales. Esta señal eléctrica se amplifica para mejorar su calidad y se procesa mediante circuitos electrónicos que extraen la información deseada.
+
+Especificaciones técnicas:
+
+- Voltaje de alimentación: 1.9 ~ 3.6V DC
+- Voltaje lógico SPI: 0 ~ 3.3V / 5V (Tolerante a 5V)
+- Consumo corriente: 115 mA (max.)
+- Chip RF: NRF24L01+
+- Chip PA+LNA: RFX2401C
+- Interfaz digital: SPI
+- Potencia de transmisión: +20 dBm
+
 
