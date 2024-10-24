@@ -9,6 +9,10 @@
 
 <p align="justify">Concebido dentro de un entorno académico, este proyecto tiene como objetivo acercar la tecnología de análisis de energías renovables a aquellos interesados en el impacto y la viabilidad de estas soluciones en diferentes regiones.</p>
 
+**ODS 7: ENERGÍA ASEQUIBLE Y NO CONTAMINANTE**
+
+Tiene como objetivo garantizar el acceso a una energía asequible, fiable, sostenible y moderna para todos. Este objetivo busca aumentar la proporción de energía renovable en el consumo global, mejorar la eficiencia energética y proporcionar acceso a servicios energéticos básicos, especialmente en regiones rurales y en desarrollo. Además, fomenta la inversión en infraestructura y tecnologías de energía sostenible, contribuyendo así a la lucha contra el cambio climático y a la promoción de un desarrollo económico inclusivo.
+
 ## **Características Principales**
 
 - 🌞 **Energía Solar**: Medición eficiente de la radiación solar.
@@ -78,8 +82,17 @@ Con VentusSolaris Analyzer, se espera lograr:
 <p align="justify">VentusSolaris Analyzer representa un paso adelante hacia la accesibilidad y democratización de las energías renovables. Al hacer uso de tecnologías accesibles y un enfoque modular, nuestro objetivo es contribuir no solo al ámbito académico, sino también al desarrollo sostenible a nivel global.</p>
 
 
-## IDENTIFICACION DEL TRL DEL PROYECTO 
+### IDENTIFICACIÓN DEL TRL DEL PROYECTO
+#### Motor DC para el anemometro:
 
-En este proyecto, se va a medir la velocidad del viento EN (M/S) mediante un sistema basado en un anemómetro conectado a un motor. El funcionamiento del sistema se activa cuando el viento hace girar las hélices del anemómetro. Estas hélices, al girar, no solo registran el movimiento del viento, sino que también generan electricidad al cortar las líneas del campo magnético en el motor. Este proceso, a través del motor RF-500TB-14415, nos permite generar una corriente eléctrica que se relaciona directamente con la velocidad del viento, facilitando así una medición precisa a partir del voltaje generado.
+En este proyecto, se va a medir la velocidad del viento en (m/s) mediante un sistema basado en un anemómetro conectado a un motor. El funcionamiento del sistema se activa cuando el viento hace girar las hélices del anemómetro. Estas hélices, al girar, no solo registran el movimiento del viento, sino que también generan electricidad al cortar las líneas del campo magnético en el motor. Este proceso, a través del motor DC nos permite generar una corriente eléctrica que se relaciona directamente con la velocidad del viento, facilitando así una medición precisa a partir del voltaje generado.
 
+
+#### Sensor de radiación:
+
+En este proyecto, vamos a medir uno de los parámetros qué es  la irradiancia solar, a través del sensor de 527-SUF268J00, el cual mide la irradiación en watts por metro cuadrado (W/m²). Este sensor funciona mediante la captura de luz solar que incide sobre un material semiconductor, comúnmente silicio. La energía de los fotones de la luz excita los electrones en el semiconductor, creando pares de electrones y huecos. Al separarse, estos generan una corriente eléctrica; cuanto mayor es la luz recibida, mayor es la corriente producida. Esta corriente se convierte en un voltaje que representa la cantidad de luz que está recibiendo el sensor. Para garantizar que las lecturas sean precisas. Además, cuenta con recubrimientos protectores que resguardan su funcionamiento frente a la humedad y la radiación UV, asegurando así su durabilidad y eficacia en diversas condiciones ambientales.
+
+#### Sensor de Ondas de Radio:
+
+El funcionamiento del sensor de ondas de radio, es fundamental para la recepción de señales que viajan a través del aire. Este sensor utiliza una antena para captar las ondas de radio, que son oscilaciones electromagnéticas. Cuando estas ondas llegan a la antena, inducen el movimiento de electrones en el material conductor de la antena, lo que genera pequeñas corrientes eléctricas. Estas corrientes son directamente proporcionales a la energía de las ondas de radio que están siendo recibidas. La corriente generada se convierte en una señal eléctrica que representa la información contenida en las ondas, como voz, música o datos digitales. Esta señal eléctrica se amplifica para mejorar su calidad y se procesa mediante circuitos electrónicos que extraen la información deseada.
 
