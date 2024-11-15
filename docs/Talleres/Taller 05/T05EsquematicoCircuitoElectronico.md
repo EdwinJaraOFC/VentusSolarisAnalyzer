@@ -55,9 +55,9 @@ Con la ayuda del docente, pudimos crear un sistema el cual puede encender un led
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen01.png" width="320px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen02.png" width="322px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen03.png" width="328px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 05/Imagenes/T05Imagen01.png" width="320px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 05/Imagenes/T05Imagen02.png" width="322px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 05/Imagenes/T05Imagen03.png" width="328px"/>
 </div>
 
 <p align="justify">
@@ -65,7 +65,7 @@ Posteriormente, modificamos el valor de la resistencia a 330 ohmios para optimiz
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen04.png" width="600px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 05/Imagenes/T05Imagen04.png" width="600px"/>
 </div>
 
 <p align="justify">
@@ -78,7 +78,7 @@ A continuación, procedimos a unir los componentes siguiendo los siguientes paso
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen05.png" width="600px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 05/Imagenes/T05Imagen05.png" width="600px"/>
 </div>
 
 <p align="justify">
@@ -87,7 +87,7 @@ A continuación, procedimos a unir los componentes siguiendo los siguientes paso
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen06.png" width="600px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 05/Imagenes/T05Imagen06.png" width="600px"/>
 </div>
 
 <p align="justify">
@@ -96,9 +96,9 @@ A continuación, procedimos a unir los componentes siguiendo los siguientes paso
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen07.png" width="250px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen08.png" width="280px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen09.png" width="310px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 05/Imagenes/T05Imagen07.png" width="250px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 05/Imagenes/T05Imagen08.png" width="280px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 05/Imagenes/T05Imagen09.png" width="310px"/>
 </div>
 
 ### Ejercicio 2: Crear un circuito que guarde relación con nuestro proyecto
@@ -119,24 +119,24 @@ Al ensamblar estos componentes en el circuito, hemos prestado especial atención
 
 **Vista Previa en 2D**
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen10.png" width="400px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen11.png" width="360px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 05/Imagenes/T05Imagen10.png" width="400px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 05/Imagenes/T05Imagen11.png" width="360px"/>
 </div>
 
 **Vista Previa en 3D**
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen12.png" width="420px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen13.png" width="438px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 05/Imagenes/T05Imagen12.png" width="420px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 05/Imagenes/T05Imagen13.png" width="438px"/>
 </div>
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen14.png" width="500px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen15.png" width="405px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 05/Imagenes/T05Imagen14.png" width="500px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 05/Imagenes/T05Imagen15.png" width="405px"/>
 </div>
 
 ## 4. Evidencias del desarrollo de ejercicios
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoGrupal07.jpg" width="600px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 05/Imagenes/FotoGrupal07.jpg" width="600px"/>
 </div>
 
 ## 5. Conclusión
