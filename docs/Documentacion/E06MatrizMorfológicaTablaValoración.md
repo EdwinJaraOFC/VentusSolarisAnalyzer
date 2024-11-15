@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E06Imagen01.png" width="650" style="margin: auto;">
 </p>
+![image](https://github.com/user-attachments/assets/355edf2a-1789-4f22-bfdb-fee0f08e6311)
 
 ## Evaluación de Conceptos de Solución
 ## Tabla de Valoración
@@ -15,6 +16,7 @@
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E06Imagen02.png" width="850" style="margin: auto;">
 </p>
+![image](https://github.com/user-attachments/assets/0b4e4f49-ba9a-42f6-867c-2266737da8e5)
 
 ## Conclusión
 
