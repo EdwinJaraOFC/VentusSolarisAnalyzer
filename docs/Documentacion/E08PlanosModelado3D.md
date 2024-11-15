@@ -11,24 +11,28 @@
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E08Imagen01.jpg" width="750" style="margin: auto;">
 </p>
+![image](https://github.com/user-attachments/assets/95f8c8de-cb63-46b1-a546-ced309ca4446)
 
 ## Plano: Tapa para la Batería Portátil
 
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E08Imagen02.jpg" width="750" style="margin: auto;">
 </p>
+![image](https://github.com/user-attachments/assets/812db5ed-8c0e-4dfb-b64a-694540092555)
 
 ## Plano: Tapa de la Caja del Anemómetro
 
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E08Imagen03.jpg" width="750" style="margin: auto;">
 </p>
+![image](https://github.com/user-attachments/assets/23d58264-7e4f-47b7-b7a8-b557f278da3e)
 
 ## Plano: Anemómetro
 
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E08Imagen04.jpg" width="750" style="margin: auto;">
 </p>
+![image](https://github.com/user-attachments/assets/9691c93e-ce6a-4cff-ba80-2da055e9b1db)
 
 ## Laminado 3D
 
@@ -50,3 +54,9 @@
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E08Imagen09.jpg" width="750" style="margin: auto;">
 </p>
+
+![image](https://github.com/user-attachments/assets/b9cec97d-e8c6-4f27-b7f5-8f8978bd6b5d)
+![image](https://github.com/user-attachments/assets/ceb4ad4d-0bd7-489b-b467-34b426373a8e)
+![image](https://github.com/user-attachments/assets/0987a8ee-99b4-472a-9128-967c986a7b46)
+![image](https://github.com/user-attachments/assets/c27fe15d-7b3f-40fa-a591-d3a04578afc6)
+![image](https://github.com/user-attachments/assets/2525d774-4ce8-466c-9355-af613a8fe747)
