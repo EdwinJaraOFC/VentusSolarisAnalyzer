@@ -47,6 +47,8 @@ El protoboard es una herramienta fundamental para la creación y prueba de circu
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen01.jpg" width="300px"/>
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen02.jpg" width="300px"/>
 </div>
+![image](https://github.com/user-attachments/assets/d06e2057-98b8-4788-87ab-c6fbe7110887)
+![image](https://github.com/user-attachments/assets/44447c0f-a7e4-470e-b7a7-2bb9d7c30bad)
 
 ## 3. Desarrollo de ejercicios
 ### Ejercicio 1
@@ -56,6 +58,8 @@ En este circuito se trabajó con una resistencia de 1k ohmios, donde se apreciab
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen03.png" width="300px"/>
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen04.jpg" width="300px"/>
 </div>
+![image](https://github.com/user-attachments/assets/78d5370f-4388-4855-8f4b-dfeb47a25499)
+![image](https://github.com/user-attachments/assets/552d6c8f-b59f-4290-aa8e-f199e737c0e7)
 
 Teniendo en cuenta los datos, hicimos los cálculos tanto en serie como en paralelo, teniendo como resultado que la resistencia total es de 666.66 ohm.
 
@@ -63,6 +67,8 @@ Teniendo en cuenta los datos, hicimos los cálculos tanto en serie como en paral
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen05.jpg" width="400px"/>
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen06.jpg" width="300px"/>
 </div>
+![image](https://github.com/user-attachments/assets/dd87e327-e9b6-4eac-89e5-a03e42f9153f)
+![image](https://github.com/user-attachments/assets/966d05a7-4606-4170-b46f-23dafc490b2f)
 
 ### Ejercicio 2
 El diagrama de un circuito eléctrico que consiste en cinco resistencias etiquetadas como R1, R2, R3, R4 y R5. El circuito tiene la forma de un pentágono con una resistencia en cada lado. 
