@@ -16,6 +16,7 @@ La situación de pobreza energética evidencia la falta de desarrollo sostenible
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E03Imagen01.png" width="600" style="margin: auto;">
 </p>
+![image](https://github.com/user-attachments/assets/c96132c0-f835-48b2-baae-10d463e2849f)
 
 ## 2. **A Nivel Nacional**
 
@@ -28,6 +29,7 @@ Según la Encuesta Nacional de Hogares del INEI, el suministro eléctrico no est
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E03Imagen02.png" width="600" style="margin: auto;">
 </p>
+![image](https://github.com/user-attachments/assets/06541262-dee2-4583-bc98-33225edfb418)
 
 ## **3. A Nivel Mundial**
 
@@ -43,6 +45,8 @@ Asegurar el acceso energético universal se presenta como una necesidad imperati
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E03Imagen03.png" width="489px"/>
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E03Imagen04.png" width="518px"/>
 </div>
+![image](https://github.com/user-attachments/assets/fc2b672e-f386-4eaf-8fc6-1d669d2d3e46)
+![image](https://github.com/user-attachments/assets/5461d9cd-c0cd-4955-8192-d8ba6d1d30ea)
 
 # Impacto Económico de la Privación de Suministro a la Energía Eléctrica en Piura, Perú
 
@@ -53,12 +57,14 @@ En la región de Piura, se ha evidenciado una producción considerable de gigava
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E03Imagen05.png" width="600" style="margin: auto;">
 </p>
+![image](https://github.com/user-attachments/assets/6e23c08d-0746-4d83-a639-71ec194c0cd6)
 
 A pesar de estos esfuerzos, la persistente  escasez del derecho a la energía eléctrica en esta región se traduce en un aumento de los costos operativos tanto para empresas como para hogares (considerando la canasta familiar). Esta situación impacta negativamente en la disminución de  gastos . Según datos del INEI, entre el 60% y el 78.1% de la población total de Piura carece del paquete integrado de servicios, un indicador preocupante que subraya la necesidad urgente de abordar la brecha en el suministro eléctrico para mejorar la calidad de vida  fomentando el crecimiento económico en la región a lo largo del 2022.
 
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E03Imagen06.png" width="600" style="margin: auto;">
 </p>
+![image](https://github.com/user-attachments/assets/e5bb96e0-4888-4670-b8cf-edcc8217785a)
 
 
 ## **2. A Nivel Nacional**
@@ -72,6 +78,7 @@ Sin embargo, la reducción en -0.1% del PBI en el Perú durante noviembre del 20
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E03Imagen07.png" width="600" style="margin: auto;">
 </p>
+![image](https://github.com/user-attachments/assets/ff44bfa0-35dd-46fa-8d7f-d51c70718fa2)
 
 
 ### **2.1. Sectores específicos**
@@ -89,6 +96,7 @@ El ligero incremento en Transporte, almacenamiento, correo y mensajería puede i
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E03Imagen08.png" width="600" style="margin: auto;">
 </p>
+![image](https://github.com/user-attachments/assets/fab9a986-f8e3-4a2f-b96d-ac723566bfe0)
 
 ### **2.2. Producción Eléctrica**
 <p align="justify">
@@ -100,6 +108,7 @@ Este crecimiento en la actividad de electricidad, gas y agua evidencia la capaci
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E03Imagen09.png" width="600" style="margin: auto;">
 </p>
+![image](https://github.com/user-attachments/assets/0505ea63-371a-4af0-b1a9-5d007aaf7518)
 
 ## **3. A Nivel Mundial**
 
@@ -117,6 +126,7 @@ La gráfica emitida por OLADE indica un cambio significativo en la matriz energ�
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E03Imagen10.png" width="600" style="margin: auto;">
 </p>
+![image](https://github.com/user-attachments/assets/c0770107-c1a2-48e3-929c-fb666e1d2513)
 
 Dada la disminución en 2019, es esencial explorar estrategias para garantizar un suministro energético sostenible y resiliente en la Zona Andina. La inversión en la eficiencia energética son áreas clave a considerar y aprovechar las oportunidades emergentes en el panorama energético global.
 
@@ -131,10 +141,12 @@ Es importante destacar que otras fuentes primarias, como el biogás, desechos ve
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E03Imagen11.png" width="600" style="margin: auto;">
 </p>
+![image](https://github.com/user-attachments/assets/e74cea1a-862a-4023-b94d-4f8d961deeb3)
 
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E03Imagen12.png" width="600" style="margin: auto;">
 </p>
+![image](https://github.com/user-attachments/assets/70b48d00-4326-495d-8385-07e9f339f043)
 
 ---
 ### Bibliografía
