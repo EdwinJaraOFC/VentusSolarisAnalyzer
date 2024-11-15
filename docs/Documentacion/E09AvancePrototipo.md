@@ -9,6 +9,8 @@
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E09Imagen05.png" width="280" style="margin: auto;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E07Imagen06.jpg" width="710" style="margin: auto;">
 </p>
+![image](https://github.com/user-attachments/assets/c38067a4-2025-4efa-a533-471dd5df0e13)
+![image](https://github.com/user-attachments/assets/413d3afb-87ab-47b1-876e-d25f80a14337)
 
 ## Esquemático Electrónico
 
@@ -23,6 +25,10 @@
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E09Imagen03.jpg" width="950" style="margin: auto;">
 </p>
+![image](https://github.com/user-attachments/assets/c29fae8d-3b2f-48dc-8104-1a6c36e9c5ff)
+![image](https://github.com/user-attachments/assets/a29e9616-4d47-4b14-81c6-1406305d0c30)
+![image](https://github.com/user-attachments/assets/f82363db-d6d6-4e70-b387-14287ce14ad8)
+![image](https://github.com/user-attachments/assets/2b58bfb3-d770-4f98-8e23-c6a93ffd236a)
 
 ## Diagrama de Flujo
 
