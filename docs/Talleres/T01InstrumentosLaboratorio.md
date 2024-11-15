@@ -82,16 +82,14 @@ En el Generador de Señales se proporcionó una señal sinusoidal de 1 KHz de fr
 </p>
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T01Imagen01.jpg" width="600" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/66442112-bbe9-40ab-a220-48034118c19d" width="600" style="margin: auto;">
 </p>
-![image](https://github.com/user-attachments/assets/66442112-bbe9-40ab-a220-48034118c19d)
 
 Para visualizar los valores ajustados de la gráfica se ha obtenido el siguiente resultado:
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T01Imagen02.jpg" width="600" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/71acb7e3-d881-486a-a631-90cbbd349b88" width="600" style="margin: auto;">
 </p>
-![image](https://github.com/user-attachments/assets/71acb7e3-d881-486a-a631-90cbbd349b88)
 
 #### Tabla de valores ajustados de la gráfica
 | Datos de Medición | Resultados |
@@ -113,9 +111,8 @@ Para este resultado hemos ampliado la forma senoidal para ser más precisos con 
 #### Valor del tiempo:
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T01Imagen03.jpg" width="600" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/3dd9ad91-6be1-4d9c-821f-23b7b200e581" width="600" style="margin: auto;">
 </p>
-![image](https://github.com/user-attachments/assets/3dd9ad91-6be1-4d9c-821f-23b7b200e581)
 
 Al utilizar la fórmula f = 1/t con nuestros datos, obtenemos:
  f = 1 / 1*10^-3
@@ -128,9 +125,8 @@ El resultado obtenido indica que se ha realizado una lectura precisa del voltaje
 #### Valor del periodo:
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T01Imagen04.jpg" width="600" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/eedf2cad-80a0-4965-b914-31a003aec964" width="600" style="margin: auto;">
 </p>
-![image](https://github.com/user-attachments/assets/eedf2cad-80a0-4965-b914-31a003aec964)
 
 #### Tabla de valores medidos de la señal de entrada en un periodo
 | Unidades Físicas | Valores |
@@ -151,48 +147,40 @@ Se realizaron 10 mediciones de voltaje de 0 V a 10V  para poder hallar los valor
 </p>
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T01Imagen05.jpg" width="600" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/77147cee-1365-452e-8298-a101b789b019" width="600" style="margin: auto;">
 </p>
-![image](https://github.com/user-attachments/assets/77147cee-1365-452e-8298-a101b789b019)
 
 ### 2. Valores ajustados de la gráfica y valores medidos de la señal de entrada en un periodo
 Usamos un generador  para obtener señales periódicas, para controlar   su periodo y su amplitud (máximo valor que toma la tensión de la señal).
 <table>
     <tr>
         <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T01Imagen06.jpg" alt="" width="500">
+            <img src="https://github.com/user-attachments/assets/2235d6b4-93e5-4e4b-91ed-2ff23a5ebecb" alt="" width="500">
         </td>
           <td style="border: 0px solid #ddd; padding: 6px;">
-            <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T01Imagen07.jpg" alt="" width="500">
+            <img src="https://github.com/user-attachments/assets/b1571b2f-4b93-408a-bc56-af79309d468c" alt="" width="500">
         </td>
 </table>  
-![image](https://github.com/user-attachments/assets/2235d6b4-93e5-4e4b-91ed-2ff23a5ebecb)
-![image](https://github.com/user-attachments/assets/b1571b2f-4b93-408a-bc56-af79309d468c)
 
 También se usó un osciloscopio digital que nos transmite señales eléctricas en formas de coordenadas o en específico señales periódicas lo cual nos presenta una gráfica de amplitud,se complementa con un multímetro, una fuente de alimentación y un generador de señales.
 
 <table>
     <tr>
         <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T01Imagen02.jpg" alt="" width="500">
+            <img src="https://github.com/user-attachments/assets/02d099c1-2c93-4006-9802-97a96d303e00" alt="" width="500">
         </td>
           <td style="border: 0px solid #ddd; padding: 6px;">
-            <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T01Imagen08.jpg" alt="" width="500">
+            <img src="https://github.com/user-attachments/assets/8b983b36-96db-4c1e-b352-4256084722bb" alt="" width="500">
         </td>
 </table> 
-![image](https://github.com/user-attachments/assets/02d099c1-2c93-4006-9802-97a96d303e00)
-![image](https://github.com/user-attachments/assets/8b983b36-96db-4c1e-b352-4256084722bb)
 
 ### 3. Evidencias de la manipulación de los equipos electrónicos
 <table>
     <tr>
         <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoGrupal02.jpg" alt="" width="500">
+            <img src="https://github.com/user-attachments/assets/aab2f735-4f0f-4fac-be6b-a60f6085d21a" alt="" width="500">
         </td>
           <td style="border: 0px solid #ddd; padding: 6px;">
-            <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoGrupal03.jpg" alt="" width="500">
+            <img src="https://github.com/user-attachments/assets/ccd3b6c4-90f3-431b-b99a-f514ad363934" alt="" width="500">
         </td>
 </table> 
-
-![image](https://github.com/user-attachments/assets/aab2f735-4f0f-4fac-be6b-a60f6085d21a)
-![image](https://github.com/user-attachments/assets/ccd3b6c4-90f3-431b-b99a-f514ad363934)
