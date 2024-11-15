@@ -13,7 +13,7 @@
 <h3 align="center">"La falta de electricidad en el colegio de San José Obrero impide el desarrollo educativo".</h1>
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen01.png" width="950" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/812bb0b3-92af-43d5-841f-cfd4654e8a34" width="950" style="margin: auto;">
 </p>
 
 ## Características resaltadas de la zona
@@ -29,23 +29,23 @@ El plan de gestión de la Municipalidad Provincial de Morropón - Chulucanas par
 | <p align="center">**Geografía**</p> | <p align="justify">La región presenta una variedad de pisos ecológicos y diversidad de suelos, así como una amplia gama de estratos socioeconómicos y actividades económicas predominantes.</p> |
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen02.png" width="600" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/559efb32-0d2e-4057-a0ef-9507666e79c6" width="600" style="margin: auto;">
 </p>
 
 ## Herramientas para identificar el problema
 ### Mapa de Empatía
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen03.png" width="800" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/ca53c171-7dcc-4b7d-b0ba-36617365efc3" width="800" style="margin: auto;">
 </p>
 
 ### Mapa del viaje del cliente
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen04.png" width="800" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/b7c71629-d6e3-4f70-808b-991cbb915d55" width="800" style="margin: auto;">
 </p>
 
 ### Diagrama Causa-Efecto
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen05.png" width="800" style="margin: auto;">
+  <img src="https://github.com/user-attachments/assets/c074e9f4-00b0-44bd-9a3f-64bfcf0998b0" width="800" style="margin: auto;">
 </p>
 
 ## Acciones Propuestas
