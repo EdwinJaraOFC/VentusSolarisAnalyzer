@@ -79,6 +79,7 @@ Se diseñó un esquema donde las resistencias se colocaron en paralelo en los ex
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen07.jpg" width="300px"/>
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen08.jpg" width="300px"/>
 </div>
+![image](https://github.com/user-attachments/assets/253dbfa2-a197-49fc-a5b1-4ba420790df8)
 
 Al momento de calcular el valor total , se encontró que era de 400 ohmios.
 
