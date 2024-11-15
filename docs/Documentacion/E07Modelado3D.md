@@ -8,6 +8,8 @@
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E07Imagen01.jpg" width="375" style="margin: auto;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E07Imagen02.jpg" width="625" style="margin: auto;">
 </p>
+![image](https://github.com/user-attachments/assets/7c4521d9-ee6d-4e9b-b8a8-4d1db5d20127)
+![image](https://github.com/user-attachments/assets/396b11fb-e127-4a68-a254-3f46a753054e)
 
 ## Dimensiones Preliminares
 <p align="center">
@@ -17,6 +19,9 @@
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E07Imagen05.jpg" width="750" style="margin: auto;">
 </p>
+![image](https://github.com/user-attachments/assets/a8017c9b-4af9-44e2-aebf-d8473756399e)
+![image](https://github.com/user-attachments/assets/fbb7161f-7d22-44ae-8b55-24bcd1382da3)
+![image](https://github.com/user-attachments/assets/faaafcbf-488e-4369-bb17-38a56c2d0cde)
 
 ## Modelado 3D
 
@@ -26,10 +31,11 @@
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E07Imagen07.png" width="455" style="margin: auto;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E07Imagen08.jpg" width="445" style="margin: auto;">
 </p>
-
-
+![image](https://github.com/user-attachments/assets/e1923bb4-aed5-474a-ae57-0afdfa6dc0a9)
+![image](https://github.com/user-attachments/assets/b23a3031-72b2-42f6-8ca4-9d48cd835708)
 
 ## Tabla de Componentes
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E07Imagen06.jpg" width="950" style="margin: auto;">
 </p>
+![image](https://github.com/user-attachments/assets/004b0c04-ae5b-45ea-985e-7bb98960da84)
