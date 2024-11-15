@@ -80,6 +80,7 @@ Se diseñó un esquema donde las resistencias se colocaron en paralelo en los ex
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen08.jpg" width="300px"/>
 </div>
 ![image](https://github.com/user-attachments/assets/253dbfa2-a197-49fc-a5b1-4ba420790df8)
+![image](https://github.com/user-attachments/assets/22de0d7d-735e-4278-bb27-64912295e431)
 
 Al momento de calcular el valor total , se encontró que era de 400 ohmios.
 
@@ -90,6 +91,9 @@ Al momento de calcular el valor total , se encontró que era de 400 ohmios.
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen11.jpg" width="300px">
 </p> 
+![image](https://github.com/user-attachments/assets/071c9009-dcca-4fc8-8eaf-23cf3c57a1ad)
+![image](https://github.com/user-attachments/assets/c06ca865-806f-467c-8da4-685214d735e9)
+![image](https://github.com/user-attachments/assets/e736e86c-1768-4155-af2f-a2cf4a0c4e02)
 
 ### Ejercicio 3
 Este experimento representa un circuito eléctrico que  está compuesto por seis resistencias (R1 a R6) de 1000 ohm cada una. Donde, se realizaron los siguientes cálculos:
@@ -106,6 +110,8 @@ RT = 1 /(1/R13 + 1/R24 + 1/R56) = 666.67 ohm
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen12.jpg" width="300px"/>
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen13.jpg" width="300px"/>
 </div>
+![image](https://github.com/user-attachments/assets/35cc8f6d-5b8d-487a-90c9-e31744c9dc68)
+![image](https://github.com/user-attachments/assets/3281ee4f-8403-40d9-bc7c-692e9f0d83d7)
 
 **Resultado**
 <p align="justify">
@@ -116,6 +122,8 @@ Para comprobar estos resultados hemos utilizado un multímetro, para lo cuál pr
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen14.jpg" width="300px"/>
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen15.jpg" width="300px"/>
 </div>
+![image](https://github.com/user-attachments/assets/2676fe71-07da-4699-b282-ea0cbc8e5afd)
+![image](https://github.com/user-attachments/assets/bc550463-b249-429f-a159-c3c4c05398c4)
 
 ### Ejercicio 4
 **Circuito divisor de tensión**
@@ -131,6 +139,7 @@ Para comprobar estos resultados hemos utilizado un multímetro, para lo cuál pr
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen16.jpg" width="300px">
 </p>
+![image](https://github.com/user-attachments/assets/43dbc84e-0375-4e91-b0d9-0e85fe5cfcfb)
 
 **Imagen del circuito divisor de tensión**
 <p align="justify">
@@ -141,6 +150,8 @@ La tensión se divide entre las resistencias en serie, y luego esa tensión divi
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen17.jpg" width="400px"/>
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen18.jpg" width="300px"/>
 </div>
+![image](https://github.com/user-attachments/assets/d0aec1a3-19bd-4d9e-84fc-3212c42f75da)
+![image](https://github.com/user-attachments/assets/3a0d2783-4b60-48a9-9040-6972ccc13619)
 
 **Resultado**
 <p align="justify">
@@ -151,6 +162,8 @@ El multímetro es una herramienta fundamental en la medición de resistencia el�
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen19.jpg" width="300px"/>
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen20.jpg" width="300px"/>
 </div>
+![image](https://github.com/user-attachments/assets/0bfbd8cc-3494-4734-a3fe-18419e28f439)
+![image](https://github.com/user-attachments/assets/47ff9869-5412-4f35-bbce-84abb50fc81f)
 
 ## 4. Evidencias del desarrollo de ejercicios
 
@@ -158,6 +171,8 @@ El multímetro es una herramienta fundamental en la medición de resistencia el�
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoGrupal04.jpg" width="300px"/>
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoGrupal05.jpg" width="300px"/>
 </div>
+![image](https://github.com/user-attachments/assets/2fd11400-b4cd-4f67-a978-48d5dcd3d124)
+![image](https://github.com/user-attachments/assets/20c08907-8e9f-4c09-bb85-634ace0ad7d7)
 
 ## 5. Conclusiones
 <p align="justify">
