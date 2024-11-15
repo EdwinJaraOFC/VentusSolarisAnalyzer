@@ -194,7 +194,5 @@ También se usó un osciloscopio digital que nos transmite señales eléctricas 
         </td>
 </table> 
 
-![image](https://github.com/user-attachments/assets/2db66e81-ba5c-4b11-91e1-7363a8243f5b)
-![image](https://github.com/user-attachments/assets/2fb3c61e-3f14-45b6-9820-19f6294875db)
-
-
+![image](https://github.com/user-attachments/assets/aab2f735-4f0f-4fac-be6b-a60f6085d21a)
+![image](https://github.com/user-attachments/assets/ccd3b6c4-90f3-431b-b99a-f514ad363934)
