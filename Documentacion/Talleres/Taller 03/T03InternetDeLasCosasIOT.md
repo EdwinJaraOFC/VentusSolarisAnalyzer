@@ -1,29 +1,7 @@
-<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/2cae9b13-d1de-4a5a-a827-643818c98091" width="300" alt="Facultad de Ciencias e ingeniería logo">
-  </p>  
-  <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">Facultad de Ciencias e ingeniería “Alberto Cazorla Talleri”</h1>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/2cae9b13-d1de-4a5a-a827-643818c98091" width="200">
+  <h1 align="center">Taller 03: Internet de las Cosas (IoT)</h1>
 </p>
-
-<h2 align="center" style="font-family: Arial, sans-serif;">Taller 03: Internet de las Cosas (IoT)</h2>
-
-<strong> Docentes:</strong>
-- Mg Umbert Lewis De La Cruz
-- Mg. Paulo Camilo Vela Antón 
-- Mg. Moises Stevend Meza Rodriguez 
-- Dr. Harry Anderson Rivera Tito 
-- Ing. Juan Manuel Zuñiga Mamani  
-- Ing. Renzo José Chan Ríos
-
-<strong>Elaborado por:</strong>
-- Amparo Marleny Vidaurre Juárez
-- Edwin Junior Jara Bocanegra
-- Antony Iván Mendoza Villar
-- Josue Jhordan Poma Arrieta
-- Aracely Nicoll Dueñas Condori
-</p>
-
-<hr style="border: 1px solid #ccc; margin-top: 50px; margin-bottom: 50px;">
 
 ## 1. Introducción
 <p align="justify">
@@ -52,7 +30,7 @@ El Internet de las Cosas (IoT) es crucial para recopilar y transmitir informaci�
 - Batería
 
 <p align="center">
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 03/Imagenes/T03Imagen01.jpg" width="400px">
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 03/Imagenes/T03Imagen01.jpg" width="400px">
 </p>
 
 ## 4. Ensamblado de componentes
@@ -61,9 +39,9 @@ Este proyecto prescinde de sensores externos. La operación se logra al montar l
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 03/Imagenes/T03Imagen02.jpg" width="300px"/>
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 03/Imagenes/T03Imagen03.jpg" width="300px"/>
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 03/Imagenes/T03Imagen04.jpg" width="300px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 03/Imagenes/T03Imagen02.jpg" width="300px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 03/Imagenes/T03Imagen03.jpg" width="300px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 03/Imagenes/T03Imagen04.jpg" width="300px"/>
 </div>
 
 ## 5. Ejercicios
@@ -201,9 +179,9 @@ El código fue ejecutado con éxito y a continuación se evidencia el correcto f
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 03/Imagenes/T03Imagen05.jpg" width="300px"/>
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 03/Imagenes/T03Imagen06.jpg" width="300px"/>
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 03/Imagenes/T03Imagen07.jpg" width="300px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 03/Imagenes/T03Imagen05.jpg" width="300px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 03/Imagenes/T03Imagen06.jpg" width="300px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 03/Imagenes/T03Imagen07.jpg" width="300px"/>
 </div>
 
 ### Ejercicio 2: Implementar código para cambiar datos de la temperatura en las escalas convencionales
@@ -416,9 +394,9 @@ void printTemperatureK() {
 ```
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 03/Imagenes/T03Imagen08.jpg" width="300px"/>
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 03/Imagenes/T03Imagen09.jpg" width="300px"/>
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 03/Imagenes/T03Imagen10.jpg" width="300px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 03/Imagenes/T03Imagen08.jpg" width="300px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 03/Imagenes/T03Imagen09.jpg" width="300px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 03/Imagenes/T03Imagen10.jpg" width="300px"/>
 </div>
 
 **Ejercicio 3: Implementar código para centrar y aumentar el tamaño de las letras de la Humedad**
@@ -443,8 +421,8 @@ void printHumidity() {
 ```
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 03/Imagenes/T03Imagen11.jpg" width="300px"/>
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 03/Imagenes/T03Imagen12.jpg" width="300px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 03/Imagenes/T03Imagen11.jpg" width="300px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 03/Imagenes/T03Imagen12.jpg" width="300px"/>
 </div>
 
 ### Ejercicio 4: Cambio en el nivel de temperatura (Temperatura del laboratorio = Rojo, Temperatura del aire acondicionado = Azul)
@@ -583,8 +561,8 @@ Luego hicimos algunas modificaciones en el código para que se ponga de color az
 ```
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 03/Imagenes/T03Imagen13.jpg" width="300px"/>
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 03/Imagenes/T03Imagen14.jpg" width="300px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 03/Imagenes/T03Imagen13.jpg" width="300px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 03/Imagenes/T03Imagen14.jpg" width="300px"/>
 </div>
 
 <p align="justify">
@@ -639,16 +617,16 @@ una opción conveniente y práctica para alimentar estos dispositivos. En todos 
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 03/Imagenes/T03Imagen15.jpg" width="300px"/>
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 03/Imagenes/T03Imagen16.jpg" width="300px"/>
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 03/Imagenes/T03Imagen17.jpg" width="300px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 03/Imagenes/T03Imagen15.jpg" width="300px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 03/Imagenes/T03Imagen16.jpg" width="300px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 03/Imagenes/T03Imagen17.jpg" width="300px"/>
 </div>
 
 ## 7. Evidencias del desarrollo de ejercicios
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 03/Imagenes/T03Imagen18.jpg" width="250px"/>
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 03/Imagenes/FotoGrupal06.jpg" width="400px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 03/Imagenes/T03Imagen18.jpg" width="250px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 03/Imagenes/FotoGrupal06.jpg" width="400px"/>
 </div>
 
 ## 8. Conclusión

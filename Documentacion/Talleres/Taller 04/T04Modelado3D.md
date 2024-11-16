@@ -1,29 +1,7 @@
-<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/2cae9b13-d1de-4a5a-a827-643818c98091" width="300" alt="Facultad de Ciencias e ingeniería logo">
-  </p>  
-  <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">Facultad de Ciencias e ingeniería “Alberto Cazorla Talleri”</h1>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/2cae9b13-d1de-4a5a-a827-643818c98091" width="200">
+  <h1 align="center">Taller 04: Modelado 3D</h1>
 </p>
-
-<h2 align="center" style="font-family: Arial, sans-serif;">Taller 04: Modelado 3D</h2>
-
-<strong> Docentes:</strong>
-- Mg Umbert Lewis De La Cruz
-- Mg. Paulo Camilo Vela Antón 
-- Mg. Moises Stevend Meza Rodriguez 
-- Dr. Harry Anderson Rivera Tito 
-- Ing. Juan Manuel Zuñiga Mamani  
-- Ing. Renzo José Chan Ríos
-
-<strong>Elaborado por:</strong>
-- Amparo Marleny Vidaurre Juárez
-- Edwin Junior Jara Bocanegra
-- Antony Iván Mendoza Villar
-- Josue Jhordan Poma Arrieta
-- Aracely Nicoll Dueñas Condori
-</p>
-
-<hr style="border: 1px solid #ccc; margin-top: 50px; margin-bottom: 50px;">
 
 ## 1. Descripción del Modelado 3D (Onshape)
 
@@ -56,7 +34,7 @@ Para realizar la representación de un vaso 3D, nos ubicamos en la vista “Top�
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 04/Imagenes/T04Imagen01.jpg" width="600px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 04/Imagenes/T04Imagen01.jpg" width="600px"/>
 </div>
 
 <p align="justify">
@@ -64,7 +42,7 @@ Luego realizamos las accion “Extrude” para pasar de un modelo 2D a un modelo
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 04/Imagenes/T04Imagen02.jpg" width="600px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 04/Imagenes/T04Imagen02.jpg" width="600px"/>
 </div>
 
 <p align="justify">
@@ -72,7 +50,7 @@ Después pasamos a quitarle la parte superior del vaso para que se parezca cada 
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 04/Imagenes/T04Imagen03.jpg" width="600px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 04/Imagenes/T04Imagen03.jpg" width="600px"/>
 </div>
 
 <p align="justify">
@@ -80,7 +58,7 @@ Le dimos bordes con la opción “Fillet”, quedando nuestro vaso de la siguien
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 04/Imagenes/T04Imagen04.jpg" width="600px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 04/Imagenes/T04Imagen04.jpg" width="600px"/>
 </div>
 
 <p align="justify">
@@ -88,7 +66,7 @@ Después escogimos que color queríamos para el vaso y lo seleccionamos.
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 04/Imagenes/T04Imagen05.jpg" width="600px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 04/Imagenes/T04Imagen05.jpg" width="600px"/>
 </div>
 
 <p align="justify">
@@ -96,7 +74,7 @@ Finalmente quedando nuestro diseño del vaso de la siguiente manera:
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 04/Imagenes/T04Imagen06.jpg" width="600px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 04/Imagenes/T04Imagen06.jpg" width="600px"/>
 </div>
 
 ### Ejercicio 2: Representación de un vaso a partir de líneas
@@ -104,8 +82,8 @@ Finalmente quedando nuestro diseño del vaso de la siguiente manera:
 Para realizar la representación de un vaso 3D a partir de líneas, comenzamos en la vista "front" y creamos un sketch donde agregamos líneas para esbozar la mitad del vaso en 2D. Utilizando funciones aprendidas en el ejercicio 1, transformamos este diseño bidimensional en uno tridimensional. Las herramientas empleadas permitieron extruir y dar forma al vaso 2D, generando así la representación final en 3D, como se muestra en la segunda imagen.
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 04/Imagenes/T04Imagen07.jpg" width="400px"/>
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 04/Imagenes/T04Imagen08.jpg" width="300px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 04/Imagenes/T04Imagen07.jpg" width="400px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 04/Imagenes/T04Imagen08.jpg" width="300px"/>
 </div>
 
 ### Ejercicio 3: Representación de una taza a partir del ejercicio 1
@@ -115,7 +93,7 @@ Para modelar la taza tuvimos que usar el molde ya hecho de un vaso en el ejercic
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 04/Imagenes/T04Imagen22.jpg" width="600px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 04/Imagenes/T04Imagen22.jpg" width="600px"/>
 </div>
 
 ### Ejercicio 4: Representación de un case para Arduino UNO
@@ -125,7 +103,7 @@ Para realizar la representación del case Arduino UNO, empezamos insertando una 
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 04/Imagenes/T04Imagen13.jpg" width="600px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 04/Imagenes/T04Imagen13.jpg" width="600px"/>
 </div>
 
 <p align="justify">
@@ -133,7 +111,7 @@ Luego de insertar la imagen procedemos a crear un sketch en “top” e insertar
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 04/Imagenes/T04Imagen14.jpg" width="600px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 04/Imagenes/T04Imagen14.jpg" width="600px"/>
 </div>
 
 <p align="justify">
@@ -141,7 +119,7 @@ Luego usamos la función “extrude” con las líneas hechas anteriormente para
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 04/Imagenes/T04Imagen15.jpg" width="600px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 04/Imagenes/T04Imagen15.jpg" width="600px"/>
 </div>
 
 <p align="justify">
@@ -149,7 +127,7 @@ Luego decidimos quitarle la tapa para que se asemeje al case del Arduino UNO, ju
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 04/Imagenes/T04Imagen16.jpg" width="600px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 04/Imagenes/T04Imagen16.jpg" width="600px"/>
 </div>
 
 <p align="justify">
@@ -157,7 +135,7 @@ Paso extra: Tuvimos que recortar las partes que hacían que el case no entre cor
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 04/Imagenes/T04Imagen17.jpg" width="600px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 04/Imagenes/T04Imagen17.jpg" width="600px"/>
 </div>
 
 <p align="justify">
@@ -165,7 +143,7 @@ Paso extra: Usamos la función "extrude" pero con la diferencia de que esta vez 
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 04/Imagenes/T04Imagen18.jpg" width="600px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 04/Imagenes/T04Imagen18.jpg" width="600px"/>
 </div>
 
 <p align="justify">
@@ -173,7 +151,7 @@ Y al final de todos estos pasos el modelado del case Arduino UNO nos quedó de l
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 04/Imagenes/T04Imagen19.jpg" width="600px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 04/Imagenes/T04Imagen19.jpg" width="600px"/>
 </div>
 
 <br>
@@ -182,20 +160,20 @@ Al momento de imprimir nuestro modelado 3D no tomamos en cuenta que el case deb�
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 04/Imagenes/T04Imagen20.jpg" width="300px"/>
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 04/Imagenes/T04Imagen21.jpg" width="400px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 04/Imagenes/T04Imagen20.jpg" width="300px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 04/Imagenes/T04Imagen21.jpg" width="400px"/>
 </div>
 
 ## 4. Evidencias del desarrollo de ejercicios
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 04/Imagenes/T04Imagen09.jpg" width="300px"/>
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 04/Imagenes/T04Imagen10.jpg" width="300px"/>
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 04/Imagenes/T04Imagen11.jpg" width="300px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 04/Imagenes/T04Imagen09.jpg" width="300px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 04/Imagenes/T04Imagen10.jpg" width="300px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 04/Imagenes/T04Imagen11.jpg" width="300px"/>
 </div> 
 </div>
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/docs/Talleres/Taller 04/Imagenes/T04Imagen12.jpg" width="600px"/>
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Talleres/Taller 04/Imagenes/T04Imagen12.jpg" width="600px"/>
 </div>
 
 ## 5. Conclusión

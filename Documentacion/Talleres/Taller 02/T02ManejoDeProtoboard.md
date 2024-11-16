@@ -1,29 +1,7 @@
-<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/2cae9b13-d1de-4a5a-a827-643818c98091" width="300" alt="Facultad de Ciencias e ingeniería logo">
-  </p>  
-  <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">Facultad de Ciencias e ingeniería “Alberto Cazorla Talleri”</h1>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/2cae9b13-d1de-4a5a-a827-643818c98091" width="200">
+  <h1 align="center">Taller 02: Manejo de Protoboard</h1>
 </p>
-
-<h2 align="center" style="font-family: Arial, sans-serif;">Taller 02: Manejo de Protoboard</h2>
-
-<strong> Docentes:</strong>
-- Mg Umbert Lewis De La Cruz
-- Mg. Paulo Camilo Vela Antón 
-- Mg. Moises Stevend Meza Rodriguez 
-- Dr. Harry Anderson Rivera Tito 
-- Ing. Juan Manuel Zuñiga Mamani  
-- Ing. Renzo José Chan Ríos
-
-<strong>Elaborado por:</strong>
-- Amparo Marleny Vidaurre Juárez
-- Edwin Junior Jara Bocanegra
-- Antony Iván Mendoza Villar
-- Josue Jhordan Poma Arrieta
-- Aracely Nicoll Dueñas Condori
-</p>
-
-<hr style="border: 1px solid #ccc; margin-top: 50px; margin-bottom: 50px;">
 
 ## 1. Descripción del Protoboard
 
@@ -44,31 +22,25 @@ El protoboard es una herramienta fundamental para la creación y prueba de circu
 - Kit de electrónica B (Arduino UNO, cables, resistencias, protoboard)
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen01.jpg" width="300px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen02.jpg" width="300px"/>
+  <img src="https://github.com/user-attachments/assets/d06e2057-98b8-4788-87ab-c6fbe7110887" width="300px"/>
+  <img src="https://github.com/user-attachments/assets/44447c0f-a7e4-470e-b7a7-2bb9d7c30bad" width="300px"/>
 </div>
-![image](https://github.com/user-attachments/assets/d06e2057-98b8-4788-87ab-c6fbe7110887)
-![image](https://github.com/user-attachments/assets/44447c0f-a7e4-470e-b7a7-2bb9d7c30bad)
 
 ## 3. Desarrollo de ejercicios
 ### Ejercicio 1
 En este circuito se trabajó con una resistencia de 1k ohmios, donde se apreciaba en serie y paralelo.
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen03.png" width="300px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen04.jpg" width="300px"/>
+  <img src="https://github.com/user-attachments/assets/78d5370f-4388-4855-8f4b-dfeb47a25499" width="300px"/>
+  <img src="https://github.com/user-attachments/assets/552d6c8f-b59f-4290-aa8e-f199e737c0e7" width="300px"/>
 </div>
-![image](https://github.com/user-attachments/assets/78d5370f-4388-4855-8f4b-dfeb47a25499)
-![image](https://github.com/user-attachments/assets/552d6c8f-b59f-4290-aa8e-f199e737c0e7)
 
 Teniendo en cuenta los datos, hicimos los cálculos tanto en serie como en paralelo, teniendo como resultado que la resistencia total es de 666.66 ohm.
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen05.jpg" width="400px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen06.jpg" width="300px"/>
+  <img src="https://github.com/user-attachments/assets/dd87e327-e9b6-4eac-89e5-a03e42f9153f" width="400px"/>
+  <img src="https://github.com/user-attachments/assets/966d05a7-4606-4170-b46f-23dafc490b2f" width="300px"/>
 </div>
-![image](https://github.com/user-attachments/assets/dd87e327-e9b6-4eac-89e5-a03e42f9153f)
-![image](https://github.com/user-attachments/assets/966d05a7-4606-4170-b46f-23dafc490b2f)
 
 ### Ejercicio 2
 El diagrama de un circuito eléctrico que consiste en cinco resistencias etiquetadas como R1, R2, R3, R4 y R5. El circuito tiene la forma de un pentágono con una resistencia en cada lado. 
@@ -76,24 +48,19 @@ El diagrama de un circuito eléctrico que consiste en cinco resistencias etiquet
 Se diseñó un esquema donde las resistencias se colocaron en paralelo en los extremos y en serie en el centro.
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen07.jpg" width="300px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen08.jpg" width="300px"/>
+  <img src="https://github.com/user-attachments/assets/253dbfa2-a197-49fc-a5b1-4ba420790df8" width="300px"/>
+  <img src="https://github.com/user-attachments/assets/22de0d7d-735e-4278-bb27-64912295e431" width="300px"/>
 </div>
-![image](https://github.com/user-attachments/assets/253dbfa2-a197-49fc-a5b1-4ba420790df8)
-![image](https://github.com/user-attachments/assets/22de0d7d-735e-4278-bb27-64912295e431)
 
 Al momento de calcular el valor total , se encontró que era de 400 ohmios.
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen09.jpg" width="300px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen10.jpg" width="300px"/>
+  <img src="https://github.com/user-attachments/assets/071c9009-dcca-4fc8-8eaf-23cf3c57a1ad" width="300px"/>
+  <img src="https://github.com/user-attachments/assets/c06ca865-806f-467c-8da4-685214d735e9" width="300px"/>
 </div>
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen11.jpg" width="300px">
+  <img src="https://github.com/user-attachments/assets/e736e86c-1768-4155-af2f-a2cf4a0c4e02" width="300px">
 </p> 
-![image](https://github.com/user-attachments/assets/071c9009-dcca-4fc8-8eaf-23cf3c57a1ad)
-![image](https://github.com/user-attachments/assets/c06ca865-806f-467c-8da4-685214d735e9)
-![image](https://github.com/user-attachments/assets/e736e86c-1768-4155-af2f-a2cf4a0c4e02)
 
 ### Ejercicio 3
 Este experimento representa un circuito eléctrico que  está compuesto por seis resistencias (R1 a R6) de 1000 ohm cada una. Donde, se realizaron los siguientes cálculos:
@@ -107,11 +74,9 @@ R56 = R5  +  R6 = 2000 ohm<br>
 RT = 1 /(1/R13 + 1/R24 + 1/R56) = 666.67 ohm
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen12.jpg" width="300px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen13.jpg" width="300px"/>
+  <img src="https://github.com/user-attachments/assets/35cc8f6d-5b8d-487a-90c9-e31744c9dc68" width="300px"/>
+  <img src="https://github.com/user-attachments/assets/3281ee4f-8403-40d9-bc7c-692e9f0d83d7" width="300px"/>
 </div>
-![image](https://github.com/user-attachments/assets/35cc8f6d-5b8d-487a-90c9-e31744c9dc68)
-![image](https://github.com/user-attachments/assets/3281ee4f-8403-40d9-bc7c-692e9f0d83d7)
 
 **Resultado**
 <p align="justify">
@@ -119,11 +84,9 @@ Para comprobar estos resultados hemos utilizado un multímetro, para lo cuál pr
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen14.jpg" width="300px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen15.jpg" width="300px"/>
+  <img src="https://github.com/user-attachments/assets/2676fe71-07da-4699-b282-ea0cbc8e5afd" width="300px"/>
+  <img src="https://github.com/user-attachments/assets/bc550463-b249-429f-a159-c3c4c05398c4" width="300px"/>
 </div>
-![image](https://github.com/user-attachments/assets/2676fe71-07da-4699-b282-ea0cbc8e5afd)
-![image](https://github.com/user-attachments/assets/bc550463-b249-429f-a159-c3c4c05398c4)
 
 ### Ejercicio 4
 **Circuito divisor de tensión**
@@ -137,9 +100,8 @@ Para comprobar estos resultados hemos utilizado un multímetro, para lo cuál pr
 **Cálculo de las resistencias 1 y 2**
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen16.jpg" width="300px">
+  <img src="https://github.com/user-attachments/assets/43dbc84e-0375-4e91-b0d9-0e85fe5cfcfb" width="300px">
 </p>
-![image](https://github.com/user-attachments/assets/43dbc84e-0375-4e91-b0d9-0e85fe5cfcfb)
 
 **Imagen del circuito divisor de tensión**
 <p align="justify">
@@ -147,11 +109,9 @@ La tensión se divide entre las resistencias en serie, y luego esa tensión divi
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen17.jpg" width="400px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen18.jpg" width="300px"/>
+  <img src="https://github.com/user-attachments/assets/d0aec1a3-19bd-4d9e-84fc-3212c42f75da" width="400px"/>
+  <img src="https://github.com/user-attachments/assets/3a0d2783-4b60-48a9-9040-6972ccc13619" width="300px"/>
 </div>
-![image](https://github.com/user-attachments/assets/d0aec1a3-19bd-4d9e-84fc-3212c42f75da)
-![image](https://github.com/user-attachments/assets/3a0d2783-4b60-48a9-9040-6972ccc13619)
 
 **Resultado**
 <p align="justify">
@@ -159,20 +119,16 @@ El multímetro es una herramienta fundamental en la medición de resistencia el�
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen19.jpg" width="300px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen20.jpg" width="300px"/>
+  <img src="https://github.com/user-attachments/assets/0bfbd8cc-3494-4734-a3fe-18419e28f439" width="300px"/>
+  <img src="https://github.com/user-attachments/assets/47ff9869-5412-4f35-bbce-84abb50fc81f" width="300px"/>
 </div>
-![image](https://github.com/user-attachments/assets/0bfbd8cc-3494-4734-a3fe-18419e28f439)
-![image](https://github.com/user-attachments/assets/47ff9869-5412-4f35-bbce-84abb50fc81f)
 
 ## 4. Evidencias del desarrollo de ejercicios
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoGrupal04.jpg" width="300px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoGrupal05.jpg" width="300px"/>
+  <img src="https://github.com/user-attachments/assets/2fd11400-b4cd-4f67-a978-48d5dcd3d124" width="300px"/>
+  <img src="https://github.com/user-attachments/assets/20c08907-8e9f-4c09-bb85-634ace0ad7d7" width="300px"/>
 </div>
-![image](https://github.com/user-attachments/assets/2fd11400-b4cd-4f67-a978-48d5dcd3d124)
-![image](https://github.com/user-attachments/assets/20c08907-8e9f-4c09-bb85-634ace0ad7d7)
 
 ## 5. Conclusiones
 <p align="justify">

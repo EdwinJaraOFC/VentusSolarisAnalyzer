@@ -6,12 +6,12 @@
 ## Poster para Presentación Final
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/H02Imagen01.png" width="950" style="margin: auto;">
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Presentaciones/Fundamentos de Diseño/Imagenes/H02Imagen01.png" width="950" style="margin: auto;">
 </p>
 
 ## Fotografía del Proyecto Final
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/H02Imagen02.jpg" width="450" style="margin: auto;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/H02Imagen03.jpg" width="450" style="margin: auto;">
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Presentaciones/Fundamentos de Diseño/Imagenes/H02Imagen02.jpg" width="450" style="margin: auto;">
+  <img src="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/Documentacion/Presentaciones/Fundamentos de Diseño/Imagenes/H02Imagen03.jpg" width="450" style="margin: auto;">
 </p>
