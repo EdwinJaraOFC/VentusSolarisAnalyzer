@@ -3,20 +3,44 @@
   <h1 align="center">Documentación Técnica</h1>
 </p>
 
-Esta carpeta contiene toda la documentación técnica y los manuales necesarios para entender y trabajar con el proyecto **VentusSolaris Analyzer**.
+<p align="justify">La carpeta Documentación incluye todos los recursos necesarios para entender, implementar y mejorar el proyecto VentusSolaris Analyzer. Aquí encontrarás información detallada que respalda el desarrollo técnico, el uso y la expansión de este innovador kit de evaluación de energías renovables.</p>
 
-## Contenido
+## Estructura de la Carpeta
 
-- **Manual de Usuario**: Guía paso a paso para configurar y usar el kit.
-- **Especificaciones Técnicas**: Detalles de hardware y software utilizados.
-- **Guía de Desarrollo**: Indicaciones para contribuir al proyecto.
+<p align="justify">Dentro de Documentación, encontrarás las siguientes subcarpetas organizadas para facilitar el acceso a diferentes tipos de materiales:</p>
 
-## Uso
+### 1. Investigación
 
-Revisa los documentos en esta carpeta para aprender a:
+- Estudios preliminares sobre energías renovables.
+- Datos técnicos de referencia utilizados durante el desarrollo del proyecto.
+- Documentos relacionados con el análisis de viabilidad técnica y económica.
 
-1. Configurar el hardware y el software.
-2. Interpretar los datos obtenidos por el kit.
-3. Implementar mejoras o adaptaciones según tus necesidades.
+### 2. Presentaciones
 
-Para empezar, consulta el archivo `manual_usuario.md`.
+- Material gráfico y visual, ideal para exposiciones.
+- Diapositivas explicativas del proyecto.
+- Recursos diseñados para comunicar el alcance y los resultados del proyecto.
+
+### 3. Talleres
+
+- Guías detalladas para realizar talleres educativos con el kit.
+- Actividades prácticas para estudiantes y profesionales.
+- Recursos para capacitaciones en energías renovables.
+
+## Uso de la Documentación
+
+<p align="justify">Esta carpeta está diseñada para apoyar a distintos usuarios del proyecto:</p>
+
+- Usuarios Finales: Encuentra el Manual de Usuario en la subcarpeta correspondiente para aprender a configurar y operar el kit.
+- Desarrolladores: Consulta las Especificaciones Técnicas para comprender el funcionamiento del hardware y software.
+- Educadores e Investigadores: Revisa los materiales de Talleres y Presentaciones para llevar el aprendizaje sobre energías renovables a nuevas audiencias.
+
+## Recursos Clave
+
+- Manual de Usuario: Encuentra una guía paso a paso para instalar y operar el kit de forma efectiva.
+- Especificaciones Técnicas: Detalles completos de cada componente del sistema.
+- Guía de Desarrollo: Instrucciones para contribuir al proyecto y realizar mejoras personalizadas.
+
+## ¿Dudas o Comentarios?
+
+<p align="justify">Si tienes alguna pregunta o sugerencia sobre la documentación, no dudes en contactarnos a través de nuestros correos electrónicos incluidos en el README general del proyecto.</p>
