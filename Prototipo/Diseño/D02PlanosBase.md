@@ -3,7 +3,7 @@
   <h1 align="center">Planos del Modelado 3D</h1>
 </p>
 
-<a href="https://github.com/Paradoxeado/prototypeProject/tree/main/Prototipado/Hardware" style="background: linear-gradient(45deg, #FFD700, #FF69B4, #1E90FF); color: black; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 14px; margin: 10px; cursor: pointer; border-radius: 50px; border: none; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">Carpeta de Componentes 3D y Planos</a>
+<a href="https://github.com/Paradoxeado/prototypeProject/tree/main/Prototipado/Hardware">Carpeta de Componentes 3D y Planos</a>
 </p>
 
 ## Plano: Maleta

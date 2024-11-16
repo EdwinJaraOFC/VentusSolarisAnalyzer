@@ -25,13 +25,21 @@
 
 ```bash
 VentusSolarisAnalyzer/
-├── docs/         # Documentación técnica y manuales del usuario
-├── examples/     # Ejemplos de uso y configuración del kit
-├── hardware/     # Archivos y esquemas relacionados con el hardware
-├── src/          # Código fuente del proyecto
-├── test/         # Pruebas automatizadas para validación del kit
-├── LICENSE       # Licencia del proyecto
-└── README.md     # Este archivo
+├── AcercaDeNosotros/       # Información sobre el equipo o el propósito del proyecto
+├── Documentacion/          # Documentación técnica y material explicativo del proyecto
+│   ├── Investigacion/      # Estudios y análisis preliminares
+│   ├── Presentaciones/     # Material gráfico y de presentación
+│   ├── Talleres/           # Documentación y recursos de talleres
+│
+├── Prototipo/              # Detalles del prototipo del proyecto
+│   ├── Diseño/             # Planos, esquemas y documentación de diseño
+│   ├── Hardware/           # Especificaciones y esquemas del hardware
+│   ├── Software/           # Código fuente y documentación del software
+│   ├── Tests/              # Resultados y documentación de pruebas del prototipo
+│
+├── .gitignore              # Archivos y carpetas ignorados por Git
+├── LICENSE                 # Licencia del proyecto
+└── README.md               # Este archivo principal con información general del proyecto
 ```
 
 ## Motivación y Contexto
@@ -48,7 +56,7 @@ Con VentusSolaris Analyzer, se espera lograr:
 
 <p align="justify">Estos logros contribuirán no solo al campo académico, sino también a la posibilidad de implementación en proyectos de desarrollo sostenible en comunidades con acceso limitado a recursos energéticos.</p>
 
-## Equipo Actual (Proyecto Mejorado: VentusSolaris Analyzer)
+## Nuestro Equipo
 
 | Miembro | Rol | Función Principal | Correo |
 | :------------: | :------------: | :------------: | :------------: |
@@ -57,16 +65,6 @@ Con VentusSolaris Analyzer, se espera lograr:
 | **Pérez Amado, Romina Alisson** | Investigación | Investigación sobre energías renovables | romina.perez@upch.pe |
 | **Pérez Damián, Cindy Mayomi** | Investigación | Investigación sobre energías renovables | cindy.perez@upch.pe |
 | **Vásquez Nuñez, America Mailyn** | Investigación | Investigación sobre energías renovables | america.vasquez@upch.pe |
-
-## Equipo Fundador (Proyecto Original: SolarWind Analyzer)
-
-| Miembro | Rol | Función Principal | Correo |
-| :------------: | :------------: | :------------: | :------------: |
-| **Dueñas Condori, Aracely Nicoll** | Manufactura Digital | Encargada de manufactura digital | aracely.duenas@upch.pe |
-| **Jara Bocanegra, Edwin Junior** | Desarrollo Técnico | Prototipado y desarrollo técnico | edwin.jara@upch.pe |
-| **Mendoza Villar, Antony Iván** | Diseño y Modelado 3D | Coordinación del diseño y modelado 3D | antony.mendoza@upch.pe |
-| **Poma Arrieta, Josue Jhordan** | Investigación | Investigación y desarrollo de la página web | josue.poma@upch.pe |
-| **Vidaurre Juárez, Amparo Marleny** | Coordinadora General | Coordinación general del proyecto | amparo.vidaurre@upch.pe |
 
 ## Documentación y Recursos
 <p align="justify">Toda la documentación técnica y manuales de usuario pueden encontrarse en la carpeta docs/, donde se detalla el funcionamiento interno del sistema, guías de uso y especificaciones de hardware. Además, en la carpeta examples/ se incluyen ejemplos para facilitar la configuración del kit en diferentes entornos.</p>
@@ -120,3 +118,6 @@ Especificaciones técnicas:
 
 ## Contacto
 <p align="justify">Si tienes alguna duda, sugerencia o interés en colaborar con el proyecto, no dudes en ponerte en contacto con nosotros a través de nuestros correos electrónicos.</p>
+
+<a href="https://github.com/EdwinJaraOFC/VentusSolarisAnalyzer/blob/main/AcercaDeNosotros/README.md">Haz click aquí</a>
+</p>

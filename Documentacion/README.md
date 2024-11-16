@@ -1,4 +1,7 @@
-# Documentación Técnica
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/2cae9b13-d1de-4a5a-a827-643818c98091" width="200">
+  <h1 align="center">Documentación Técnica</h1>
+</p>
 
 Esta carpeta contiene toda la documentación técnica y los manuales necesarios para entender y trabajar con el proyecto **VentusSolaris Analyzer**.
 
